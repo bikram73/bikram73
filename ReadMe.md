@@ -3,12 +3,11 @@
 
   <br/>
 
-  <img 
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-    width="45" 
-    alt="Waving Hand"
-  />
-  <img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/>
+  <img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f60a.png" width="40" />
+
 </h1>
 
 
