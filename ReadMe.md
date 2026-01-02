@@ -1,7 +1,5 @@
-<<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&font-weight=700&size=36&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Bikram+Manna!;Welcome+to+my+GitHub+Profile" 
-  />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&font-weight=700&size=36&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna!;Welcome+to+my+GitHub+Profile" />
 
   <br/>
 
@@ -14,13 +12,6 @@
     src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" 
     width="45" 
     alt="Smile"
-  />
-
-  <br/>
-
-  <img 
-    src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
-    width="1920" 
   />
 </h1>
 
