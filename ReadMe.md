@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bikram%20Manna&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" />
-</p>
+<h1 align="center">Hi 👋, I'm Bikram Manna</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna;Welcome+to+my+GitHub+Profile" />
+</h1>
 
 
 
