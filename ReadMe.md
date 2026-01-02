@@ -17,16 +17,16 @@ I am always open to collaborating on Machine Learning, Deep Learning, Data Scien
 ## 🌐 Socials:
 
 <a href="mailto:bikram8548@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="50">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="height:60px; width:200px;">
 </a>
 <a href="https://www.linkedin.com/in/bikram-manna-224021254">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:60px; width:200px;">
 </a>
 <a href="https://instagram.com/bikram__7_">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="50">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="height:60px; width:200px;">
 </a>
 <a href="https://www.facebook.com/share/1DWnPFcYcr/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" height="50">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" style="height:60px; width:200px;">
 </a>
 
  
