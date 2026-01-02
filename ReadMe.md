@@ -1,13 +1,9 @@
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg, #00E7FF, #7C7CFF, #F75C7E);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: 800;
-  ">
-    Bikram Manna
-  </span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bikram%20Manna&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" />
+</p>
+
 
 
 <h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast</h3>
