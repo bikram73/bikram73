@@ -41,9 +41,7 @@ I am always open to collaborating on Machine Learning, Deep Learning, Data Scien
 | **OTHER** | ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) |
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&color=FFA500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Creating+Intelligent+Systems;Focused+on+Real-World+Impact" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
