@@ -122,26 +122,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 # 🐍 Snake Graph:
 ![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bikram73&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=dark)
-
-![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=dark)
-
-## 📊 GitHub Analytics
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bikram73&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=dark)
-
-
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ---
