@@ -1,7 +1,26 @@
-<h1 align="center">Hi 👋, I'm Bikram Manna</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code
+  &size=36
+  &pause=1200
+  &color=00C853
+  &center=true
+  &vCenter=true
+  &width=600
+  &lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna" />
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code
+  &size=22
+  &pause=1500
+  &color=FF9800
+  &center=true
+  &vCenter=true
+  &width=450
+  &lines=Welcome+to+my+GitHub+Profile" />
+</p>
 
 
 
