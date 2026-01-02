@@ -67,9 +67,9 @@ I am always open to collaborating on Machine Learning, Deep Learning, Data Scien
 ✔ Building production-ready applications  
 ✔ Applying AI/ML to practical use cases  
 ✔ Continuous learning & optimization    
-
----
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
+
 
 
 
