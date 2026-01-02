@@ -1,10 +1,25 @@
 <h1 align="center">Hi 👋, I'm Bikram Manna</h1>
 
-<h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast</h3>
+<h3 align="center">
+🚀 Full Stack Developer | AI & ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code
+  &weight=600
+  &size=22
+  &duration=3000
+  &pause=1200
+  &color=00E7FF
+  &center=true
+  &vCenter=true
+  &multiline=false
+  &width=600
+  &height=60
+  &lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Engineer;Building+Smart+Scalable+Systems;Always+Learning+New+Things" />
 </p>
+
 
 
 
