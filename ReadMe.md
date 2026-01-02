@@ -1,8 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=00C853&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FF9800&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+Profile" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bikram%20Manna&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FF9800&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+Profile" />
+</p>
+
 
 
 
