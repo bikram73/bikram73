@@ -66,22 +66,7 @@ I am always open to collaborating on Machine Learning, Deep Learning, Data Scien
 ✔ Writing clean & maintainable code  
 ✔ Building production-ready applications  
 ✔ Applying AI/ML to practical use cases  
-✔ Continuous learning & optimization  
-
----
-
-## 🏗️ Interested In
-- System Design & Scalability  
-- Cloud Architecture  
-- Backend Optimization  
-- AI-Driven Applications  
-
----
-
-## 🌐 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/bikram-manna-224021254  
-- 📧 **Email:** bikram8548@gmail.com  
-- 🌍 **Portfolio:** Coming Soon 🚀  
+✔ Continuous learning & optimization    
 
 ---
 
@@ -94,8 +79,6 @@ I am always open to collaborating on Machine Learning, Deep Learning, Data Scien
 ![](https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=rose_pine&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
