@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F75C7E&center=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=1E90FF&center=true&width=800&lines=Welcome+to+my+GitHub+Profile" />
 </h1>
+
 
 
 
