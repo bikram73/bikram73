@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" />
-  Hi, I'm Bikram Manna!
+  <span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" style="vertical-align: middle;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&font-weight=700&size=36&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Bikram+Manna!;Welcome+to+my+GitHub+Profile" />
+  </span>
 </h1>
+
 
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
