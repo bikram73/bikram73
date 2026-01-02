@@ -44,6 +44,48 @@ I am always open to collaborating on Machine Learning, Deep Learning, Data Scien
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
+## 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
+
+---
+
+## 🚧 Currently Building
+- 🔥 Scalable Full-Stack Web Applications  
+- 🤖 AI & ML–powered real-world systems  
+- ☁️ Cloud-deployed projects using AWS & Vercel  
+- 🧠 Improving system design & backend performance  
+
+---
+
+## 🎯 My Developer Mission
+> I build intelligent, scalable, and user-focused software solutions that solve real-world problems through clean code and continuous learning.
+
+---
+
+## 🧠 What I Focus On
+✔ Writing clean & maintainable code  
+✔ Building production-ready applications  
+✔ Applying AI/ML to practical use cases  
+✔ Continuous learning & optimization  
+
+---
+
+## 🏗️ Interested In
+- System Design & Scalability  
+- Cloud Architecture  
+- Backend Optimization  
+- AI-Driven Applications  
+
+---
+
+## 🌐 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/bikram-manna-224021254  
+- 📧 **Email:** bikram8548@gmail.com  
+- 🌍 **Portfolio:** Coming Soon 🚀  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
 
