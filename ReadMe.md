@@ -122,6 +122,27 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 # 🐍 Snake Game:
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
+# 👾 Pac-Man Game:
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg)
+
+# 🚀 Space Game:
+
+![Space Game](https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/demo/space.svg)
+
+# 🧩 Tetris Game:
+
+![Tetris Contributions](https://github.com/rodrigofelix/tetris-readme/raw/master/tetris.svg)
+
+# 🎯 Coding Game:
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/programming.gif" width="600" />
+
+# 👾 Pac-Man Game:
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
