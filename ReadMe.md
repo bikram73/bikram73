@@ -49,6 +49,37 @@ Hi, my name is Bikram Manna. I am a Full Stack Developer with a strong passion f
 | **TESTING** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) |
 | **OTHER** | ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) |
 
+## 💼 My Projects
+
+Here are some of my key projects showcasing my skills in Full-Stack Development, AI/ML, and Computer Vision:
+
+### [Inventory Management System](https://github.com/bikram73/Inventory_Management_System) 🗃️
+A web-based business application developed using **CodeIgniter (PHP)** to efficiently manage and monitor organizational inventory operations.
+
+### [Real-Time Vehicle Sensor Management System](https://github.com/bikram73/Real-Time_Vehicle_Sensor_Management_System) 🚗
+An **RTOS-based simulation project** demonstrating interrupt-driven architectures and priority-based task scheduling for vehicle sensor management.
+
+### [Facial Emotion Recognition System](https://github.com/bikram73/Facial_Emotion_Recognition_System) 🙂  
+A **real-time computer vision application** that detects human faces and classifies their emotional expressions using deep learning models.
+
+### [API Text Translator](https://github.com/bikram73/API_Text_Translator) 📃  
+A **web-based multilingual translation application** supporting real-time translation between 60+ languages, including Brahmi script.
+
+### [Left Ventricular Hypertrophy Detection](https://github.com/bikram73/Left_Ventricular_Hypertrophy_Detection) 🫀  
+A **multimodal ML system** for detecting Left Ventricular Hypertrophy (LVH) using ECG, MRI, and CT data.
+
+### [Face Recognition Attendance System](https://github.com/bikram73/Face_Recognition_Attendance_System) 📱  
+An automated attendance system using **Python, OpenCV, and ML**, identifying individuals via live webcam feed.
+
+### [Brahmilipi to Kannada Translator](https://github.com/bikram73/Brahmilipi_to_Kannada_Translator) 📜  
+An AI-powered system for recognizing Brahmilipi script characters from images and converting them into Kannada text.
+
+### [OTP Generator (TOTP/HOTP/Challenge Response OTP)](https://github.com/bikram73/OTP-Generator-TOTP-HOTP-ChallengeResponse_OTP-) 🔐  
+A professional **multi-factor authentication system** built with **Next.js 15, TypeScript, Tailwind CSS** implementing standard OTP protocols.
+
+### [Parent Teachers Meeting Management System](https://github.com/bikram73/parent_teachers_meeting) 👨‍👩‍👧‍👦  
+A web application to **streamline parent–teacher meetings**, improving organization and communication in schools.
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
