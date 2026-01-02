@@ -119,11 +119,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![](https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🐍 Snake Game:
+# 🐍 Snake Graph:
 ![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg)
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/coding.gif" width="600" />
-
 
 
 ### 🔝 Top Contributed Repo
