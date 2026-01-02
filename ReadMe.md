@@ -22,20 +22,9 @@
 I am always open to collaborating on Machine Learning, Deep Learning, Data Science, Computer Vision, and Healthcare AI–related work, where I can contribute my skills while learning from others. I enjoy teamwork, knowledge sharing, and building meaningful solutions through collaboration.<br><br>I am currently looking for guidance and support in areas such as model optimization, machine learning deployment using Flask and REST APIs, scaling models for production environments, and exploring advanced deep learning architectures to improve efficiency and performance.<br><br>At present, I am actively learning advanced machine learning and deep learning concepts, along with full-stack ML deployment techniques. I am also strengthening my fundamentals in Data Structures and Algorithms, Database Management Systems, Operating Systems, and Computer Networks to build a strong technical foundation.<br><br>You can ask me about Python, Machine Learning, Deep Learning, Computer Vision with OpenCV, Healthcare AI concepts, and building ML-pow
 
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Socials:
 
-<p align="center">
-  <a href="https://instagram.com/bikram__7_">
-    <img height="55" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bikram-manna-224021254">
-    <img height="55" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bikram8548@gmail.com">
-    <img height="55" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bikram__7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikram-manna-224021254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikram8548@gmail.com)
  
 
 ## 💻 Tech Stack
