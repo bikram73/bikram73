@@ -43,7 +43,7 @@ Hi, my name is Bikram Manna. I am a Full Stack Developer with a strong passion f
 
  
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 | **Category** | **Technologies / Tools** |
 |--------------|-------------------------|
@@ -62,7 +62,7 @@ Hi, my name is Bikram Manna. I am a Full Stack Developer with a strong passion f
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-## 💼 My Top 5 Projects
+## 💼 My Top 5 Projects:
 
 Here are some of my key projects showcasing my skills in Full-Stack Development, AI/ML, and Computer Vision:
 
@@ -86,7 +86,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Currently Building:
 - 🔥 Scalable Full-Stack Web Applications  
 - 🤖 AI & ML–powered real-world systems  
 - ☁️ Cloud-deployed projects using AWS & Vercel  
@@ -94,12 +94,12 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
-## 🎯 My Developer Mission
+## 🎯 My Developer Mission:
 > I build intelligent, scalable, and user-focused software solutions that solve real-world problems through clean code and continuous learning.
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 What I Focus On:
 ✔ Writing clean & maintainable code  
 ✔ Building production-ready applications  
 ✔ Applying AI/ML to practical use cases  
@@ -107,13 +107,15 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 🐍 Snake Graph:
 ![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg)
