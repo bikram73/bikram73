@@ -122,9 +122,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 # 🐍 Snake Game:
 ![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg)
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark)
-
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/coding.gif" width="600" />
 
 
