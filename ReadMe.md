@@ -3,19 +3,11 @@
 </h1>
 
 
-
-
-
-
 <h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=45&color=FFA500&vCenter=true&pause=1000" />
 </p>
-
-
-
-
 
 
 # 💫 About Me:
@@ -24,10 +16,18 @@ I am always open to collaborating on Machine Learning, Deep Learning, Data Scien
 
 ## 🌐 Socials:
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikram8548@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-manna-224021254)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bikram__7_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1DWnPFcYcr/)
+<a href="mailto:bikram8548@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="50">
+</a>
+<a href="https://www.linkedin.com/in/bikram-manna-224021254">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
+</a>
+<a href="https://instagram.com/bikram__7_">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="50">
+</a>
+<a href="https://www.facebook.com/share/1DWnPFcYcr/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" height="50">
+</a>
 
  
 
