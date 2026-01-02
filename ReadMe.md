@@ -122,25 +122,16 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 # 🐍 Snake Game:
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
-# 👾 Pac-Man Game:
+![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg)
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg)
+![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
-# 🚀 Space Game:
+![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg?color=00ff99)
 
-![Space Game](https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/demo/space.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark)
 
-# 🧩 Tetris Game:
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/coding.gif" width="600" />
 
-![Tetris Contributions](https://github.com/rodrigofelix/tetris-readme/raw/master/tetris.svg)
-
-# 🎯 Coding Game:
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/programming.gif" width="600" />
-
-# 👾 Pac-Man Game:
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg)
 
 
 ### 🔝 Top Contributed Repo
