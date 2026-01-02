@@ -9,8 +9,9 @@
 <h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=45&color=90EE90&vCenter=true&pause=1000" />
 </p>
+
 
 
 
