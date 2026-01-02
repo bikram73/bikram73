@@ -69,8 +69,7 @@ I am always open to collaborating on Machine Learning, Deep Learning, Data Scien
 ✔ Continuous learning & optimization    
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
