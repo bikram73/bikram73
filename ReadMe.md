@@ -1,12 +1,7 @@
 <h1 align="center">
-  <svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="36" font-family="Fira Code">
-      <tspan fill="#00C853">Hi 👋 I'm Bikram Manna </tspan>
-      <tspan fill="#FF9800">Welcome to my GitHub Profile</tspan>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna;Welcome+to+my+GitHub+Profile" />
 </h1>
+
 
 
 
