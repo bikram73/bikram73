@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bikram Manna</h1>
+<h1 align="center">
+  <span style="
+    background: linear-gradient(90deg, #00E7FF, #7C7CFF, #F75C7E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+  ">
+    Bikram Manna
+  </span>
+</h1>
+
 
 <h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast</h3>
 
