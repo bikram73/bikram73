@@ -8,27 +8,6 @@
 </h1>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=250&section=header&text=Hi%20👋%20I'm%20Bikram%20Manna!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" alt="Header" />
-</div>
-
-<div align="center">
-  <!-- Beautiful gradient background with integrated text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=Hi%20👋%20I'm%20Bikram%20Manna!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=55&descAlign=50" alt="Header" />
-  <br/>
-</div>
-
-<<div align="center">
-  <!-- Background with gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&fontSize=1&fontColor=fff&animation=twinkling" alt="Header Background" />
-  <!-- Animated typing text (positioned over background) -->
-  <div style="margin-top: -180px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&font-weight=700&size=36&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Bikram+Manna!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-  </div>
-  <br/>
-</div>
-
-
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </h1>
 
