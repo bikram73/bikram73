@@ -8,18 +8,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="YOUR_IMAGE_URL" width="100%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&font-weight=700&size=36&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Bikram+Manna!;Welcome+to+my+GitHub+Profile" />
-  <br><br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/>
-  <img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45"/>
-</h1>
-
-
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </h1>
@@ -33,7 +21,7 @@
 
 
 # 💫 About Me:
-Hi, my name is Bikram Manna. I am a Full Stack Developer with a strong passion for AI, Machine Learning, Deep Learning, Data Science, Computer Vision, and Healthcare AI–related work, where I can contribute my skills while learning from others. I enjoy teamwork, knowledge sharing, and building meaningful solutions through collaboration.<br><br>I am currently looking for guidance and support in areas such as model optimization, machine learning deployment using Flask and REST APIs, scaling models for production environments, and exploring advanced deep learning architectures to improve efficiency and performance.<br><br>At present, I am actively learning advanced machine learning and deep learning concepts, along with full-stack ML deployment techniques. I am also strengthening my fundamentals in Data Structures and Algorithms, Database Management Systems, Operating Systems, and Computer Networks to build a strong technical foundation.<br><br>You can ask me about Python, Machine Learning, Deep Learning, Computer Vision with OpenCV, Healthcare AI concepts, and building ML-powered web applications using Flask.
+Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion for AI, Machine Learning, Deep Learning, Data Science, Computer Vision, and Healthcare AI–related work, where I can contribute my skills while learning from others. I enjoy teamwork, knowledge sharing, and building meaningful solutions through collaboration.<br><br>I am currently looking for guidance and support in areas such as model optimization, machine learning deployment using Flask and REST APIs, scaling models for production environments, and exploring advanced deep learning architectures to improve efficiency and performance.<br><br>At present, I am actively learning advanced machine learning and deep learning concepts, along with full-stack ML deployment techniques. I am also strengthening my fundamentals in Data Structures and Algorithms, Database Management Systems, Operating Systems, and Computer Networks to build a strong technical foundation.<br><br>You can ask me about Python, Machine Learning, Deep Learning, Computer Vision with OpenCV, Healthcare AI concepts, and building ML-powered web applications using Flask.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
