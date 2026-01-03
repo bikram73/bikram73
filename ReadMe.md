@@ -7,6 +7,12 @@
 
 </h1>
 
+<div align="center">
+  <!-- Beautiful gradient background with integrated text -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=Hi%20👋%20I'm%20Bikram%20Manna!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=55&descAlign=50" alt="Header" />
+  <br/>
+</div>
+
 <<div align="center">
   <!-- Background with gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&fontSize=1&fontColor=fff&animation=twinkling" alt="Header Background" />
