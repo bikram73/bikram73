@@ -8,6 +8,19 @@
 </h1>
 
 <div align="center">
+  <!-- Beautiful gradient background -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=300&section=header" alt="Header Background" />
+  <!-- Animated typing text overlaid on background -->
+  <div style="margin-top: -220px; position: relative; z-index: 10;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Bikram+Manna!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  </div>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=250&section=header&text=Hi%20👋%20I'm%20Bikram%20Manna!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" alt="Header" />
 </div>
 
