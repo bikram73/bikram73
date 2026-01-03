@@ -8,6 +8,21 @@
 </h1>
 
 
+<!-- Banner Image -->
+<p align="center">
+  <img 
+    src="https://share.google/ulIR6gI8P2m2nu3Bc" 
+    width="100%" 
+    alt="Profile Banner"
+  />
+</p>
+
+<!-- Typing Header -->
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&font-weight=700&size=36&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Bikram+Manna!;Welcome+to+my+GitHub+Profile" 
+  />
+</h1>
 
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
