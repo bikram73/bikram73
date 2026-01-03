@@ -8,6 +8,15 @@
 </h1>
 
 <div align="center">
+  <!-- Sleek gradient background -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&fontColor=fff&animation=fadeIn" alt="Background" />
+  <!-- Typing text overlay (using negative margin) -->
+  <div style="margin-top: -150px; margin-bottom: 50px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Bikram+Manna!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  </div>
+</div>
+
+<div align="center">
   <!-- Beautiful gradient background with integrated text -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=Hi%20👋%20I'm%20Bikram%20Manna!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=55&descAlign=50" alt="Header" />
   <br/>
