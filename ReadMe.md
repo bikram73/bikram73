@@ -46,23 +46,6 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
 <a href="https://www.facebook.com/share/1DWnPFcYcr/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" style="height:40px; width:150px;">
 </a>
-
-
-## 🌐 Socials:
-
-<a href="mailto:bikram8548@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="height:40px; width:150px;">
-</a>
-<a href="https://www.linkedin.com/in/bikram-manna-224021254">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px; width:150px;">
-</a>
-<a href="https://instagram.com/bikram__7_">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="height:40px; width:150px;">
-</a>
-<a href="https://www.facebook.com/share/1DWnPFcYcr/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" style="height:40px; width:150px;">
-</a>
-
  
 ## 💻 Tech Stack
 
