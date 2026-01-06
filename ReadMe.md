@@ -32,8 +32,8 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
       src="https://img.shields.io/badge/Visit%20Portfolio-00C853?logo=&logoColor=white&style=for-the-badge"
       alt="🅑🅘🅚🅡🅐🅜's Portfolio"
       style="height:40px; width:150px;"
-    ><br><h1 align="center">👆 </h1>
-  </a>
+    >
+  </a><br><h1 align="center">👆 </h1>
 </p>
 
 
