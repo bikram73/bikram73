@@ -33,7 +33,7 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
       alt="🅑🅘🅚🅡🅐🅜's Portfolio"
       style="height:40px; width:150px;"
     >
-  </a><br><h1 align="center">👆 </h1>
+  </a>
 </p>
 
 
