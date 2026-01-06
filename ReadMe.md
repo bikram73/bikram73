@@ -44,6 +44,26 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
   🅑🅘🅚🅡🅐🅜's portfolio
 </a>
 
+<a href="https://3d-portfolio-nine-ruby-71.vercel.app/" target="_blank"
+   style="
+     display:inline-flex;
+     align-items:center;
+     justify-content:center;
+     height:40px;
+     width:260px;
+     background:#00C853;
+     color:white;
+     border-radius:6px;
+     font-weight:600;
+     font-family:Arial, sans-serif;
+     text-decoration:none;
+     font-size:16px;
+     box-shadow:0 2px 6px rgba(0,0,0,0.2);
+   ">
+  🅑🅘🅚🅡🅐🅜's portfolio
+</a>
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
