@@ -139,20 +139,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🎯 Profile Views Counter
-![](https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=flat-square)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-### 📊 GitHub Profile Summary Cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikram73&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikram73&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical)
 
 
 
