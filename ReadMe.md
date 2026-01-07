@@ -136,13 +136,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-### 🔝 Top Contributed Repos
-
-<!-- Top 5 repositories you contributed to -->
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark)
-
-<!-- Fun animated line -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" alt="Animated Line"/>
+### 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bikram73&icon=3&color=1)](https://visitcount.itsvg.in)
