@@ -27,13 +27,6 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
 <h1 align="center">👉🏻🅑🅘🅚🅡🅐🅜's Portfolio👈🏻</h1>
 <p align="center">
   <a href="https://3d-portfolio-nine-ruby-71.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Visit%20Portfolio-00C853?logo=&logoColor=white&style=for-the-badge"
-      alt="🅑🅘🅚🅡🅐🅜's Portfolio"
-      style="height:50px; width:160px;"
-    >
-  </a>
-  <a href="https://3d-portfolio-nine-ruby-71.vercel.app/" target="_blank">
   <img
     src="https://img.shields.io/badge/VISIT%20PORTFOLIO-00C853?style=for-the-badge&logoColor=white"
     alt="🅑🅘🅚🅡🅐🅜's Portfolio"
