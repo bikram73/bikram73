@@ -132,6 +132,21 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![](https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊 GitHub Stats
+
+<!-- Total contributions and commits -->
+![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=radical)
+<!-- Streak stats -->
+![Bikram's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bikram73&theme=radical)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=radical)
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
