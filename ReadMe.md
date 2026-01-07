@@ -140,6 +140,31 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=flat-square)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikram73&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikram73&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=donut&theme=radical)](https://github.com/bikram73)
+
+![Metrics](https://metrics.lecoq.io/bikram73?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FKolkata)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bikram73&theme=radical)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bikram73/your-popular-repo&type=Date)](https://star-history.com/#bikram73/your-popular-repo&Date)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1M%20lines%20of%20code-blue)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![GitHub followers](https://img.shields.io/github/followers/bikram73?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/bikram73?style=social)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
