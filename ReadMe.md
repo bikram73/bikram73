@@ -143,7 +143,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🎯 Profile Views Counter
-![](https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
