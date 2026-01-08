@@ -142,17 +142,34 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bikram73&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-### 🔝 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔝 Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bikram73&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🔥 GitHub Streak:
-![](https://github-readme-streak-stats.herokuapp.com/?user=bikram73&theme=dark&hide_border=false)
+### 📊 GitHub Statistics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 💻 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🏆 Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bikram73&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+### 📈 Contribution Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
+
+### 🔥 Streak Stats:
+![](https://streak-stats.demolab.com/?user=bikram73&theme=radical)
+
+
 
 ### 🎯 Profile Views Counter:
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
