@@ -125,16 +125,15 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📈 Contribution Activity:
-<p align="center">
-  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
-</p>
 
 # 📊 GitHub Stats:
+<p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
