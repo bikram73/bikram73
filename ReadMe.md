@@ -60,7 +60,7 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" style="height:40px; width:150px;">
 </a>
  
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 | **Category** | **Technologies / Tools** |
 |--------------|-------------------------|
@@ -136,21 +136,21 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🎯 Profile Views Counter
-![](https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge)
+### 🎯 Profile Views Counter:
+<img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
 
 
-### 📊 GitHub Profile Summary Cards
+
+### 📊 GitHub Profile Summary Cards:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikram73&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikram73&theme=radical)
