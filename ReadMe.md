@@ -128,20 +128,10 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
 
 # 📊 GitHub Stats:
-<p align="center">
-  
 ![](https://github-readme-stats.vercel.app/api?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -153,7 +143,10 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🎯 Profile Views Counter:
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
+</p>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
