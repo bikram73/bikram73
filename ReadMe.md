@@ -142,11 +142,17 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repos:
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bikram73&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+### 🔝 Most Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔥 GitHub Streak:
+![](https://github-readme-streak-stats.herokuapp.com/?user=bikram73&theme=dark&hide_border=false)
 
 ### 🎯 Profile Views Counter:
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
