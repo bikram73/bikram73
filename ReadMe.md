@@ -123,9 +123,12 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+---
+
 ## 📈 Contribution Activity:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
 
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bikram73&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bikram73&theme=transparent&hide_border=false)<br/>
@@ -133,23 +136,26 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+---
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
 
 ### 🎯 Profile Views Counter:
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
 
-
+---
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-
+---
 
 ### 📊 GitHub Profile Summary Cards:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical)
@@ -158,7 +164,29 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical)
 
+---
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikram73&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikram73&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical)
+
+---
+
+## 📊 GitHub Profile Summary Cards
+
+| | |
+|--|--|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikram73&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikram73&theme=radical) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical) |
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical)
+
+
+---
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
