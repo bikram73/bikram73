@@ -166,6 +166,33 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
+
+---
+
+## 📌 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/bikram73?template=classic&theme=dark&config.timezone=Asia/Kolkata)
+
+---
+
+## 📦 Repository Insights
+
+![Repo Insights](https://github-readme-stats.vercel.app/api/pin/?username=bikram73&repo=YOUR_REPO_NAME&theme=radical)
+
+---
+
+## 📊 GitHub Profile Summary Cards
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical)
+
+| | |
+|--|--|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikram73&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikram73&theme=radical) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical) |
+
 ---
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
