@@ -156,9 +156,9 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
-## 🐍 Contribution Snake:
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/bikram73/bikram73/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg)
 
 ---
 
