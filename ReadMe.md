@@ -145,6 +145,16 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
 
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical
+
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikram73&theme=radical
+
+https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikram73&theme=radical
+
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical
+
+https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
