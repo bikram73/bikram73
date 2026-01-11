@@ -169,6 +169,13 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical)
 
+
+## 📊 GitHub Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical)
+
 ---
 
 
