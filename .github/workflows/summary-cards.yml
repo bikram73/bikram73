@@ -2,7 +2,7 @@ name: Generate GitHub Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,9 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: bikram73
-          THEME: radical
+          AUTO_PUSH: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Push cards to summary-cards branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -22,4 +24,4 @@ jobs:
           target_branch: summary-cards
           build_dir: profile-summary-card-output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
