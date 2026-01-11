@@ -156,6 +156,18 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   <img src="https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikram73&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bikram73&theme=flat&no-frame=true" />
+</p>
+
 ---
 
 ### 🎯 Profile Views Counter:
