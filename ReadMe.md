@@ -58,7 +58,9 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
 <a href="https://www.facebook.com/share/1DWnPFcYcr/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" style="height:40px; width:150px;">
 </a>
- 
+
+---
+
 ## 💻 Tech Stack:
 
 | **Category** | **Technologies / Tools** |
@@ -77,6 +79,7 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+---
 
 ## 💼 My Top 5 Projects:
 
