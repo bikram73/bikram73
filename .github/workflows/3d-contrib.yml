@@ -3,19 +3,21 @@ name: GitHub 3D Contribution Graph
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # daily update
 
 permissions:
-  contents: write
+  contents: write  # allows pushing to repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: checkout your repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Step 2: generate 3D graph
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@main
         env:
