@@ -1,0 +1,16 @@
+name: GitHub 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:      # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: bikram73
