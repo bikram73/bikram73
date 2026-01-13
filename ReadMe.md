@@ -79,7 +79,6 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
 
 ## 💼 My Top 5 Projects:
 
@@ -103,7 +102,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
+
 
 ## 🚧 Currently Building:
 - 🔥 Scalable Full-Stack Web Applications  
@@ -126,7 +125,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
 
 ## 📈 Contribution Activity:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
@@ -139,7 +137,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -153,11 +150,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ### 🎯 Profile Views Counter:
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
 
----
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
----
 
 ## 🐍 Contribution Snake
 
@@ -172,18 +165,14 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=radical)
 
----
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
 
 ## 🧬 3D Contribution Graph
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
----
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
