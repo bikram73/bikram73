@@ -127,6 +127,26 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ---
+<h2 align="center">
+  <i>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+      Activity Graph 📈
+    </a>
+  </i>
+</h2>
+
+<p align="center">
+  <!-- Light Mode -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+  </a>
+
+  <!-- Dark Mode -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+  </a>
+</p>
+
 
 ## 📈 Contribution Activity:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
