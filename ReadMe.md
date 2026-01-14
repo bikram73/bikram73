@@ -173,12 +173,11 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📊 GitHub Statistics
 
 ![GitHub Metrics](https://raw.githubusercontent.com/bikram73/github-metrics/main/github-metrics.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 ## 📊 GitHub Traffic (Last 14 Days)
