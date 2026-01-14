@@ -215,9 +215,9 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ## 📦 Featured Project
 
-![Stars](https://img.shields.io/github/stars/bikram73/LVH-Detection)
-![Forks](https://img.shields.io/github/forks/bikram73/LVH-Detection)
-![Watchers](https://img.shields.io/github/watchers/bikram73/LVH-Detection)
+![Stars](https://img.shields.io/github/stars/bikram73/Left_Ventricular_Hypertrophy_Detection)
+![Forks](https://img.shields.io/github/forks/bikram73/Left_Ventricular_Hypertrophy_Detection)
+![Watchers](https://img.shields.io/github/watchers/bikram73/Left_Ventricular_Hypertrophy_Detection)
 
 
 ## 👀 Profile Visitors
@@ -225,6 +225,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ## 📊 GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true)
+
 
 ## 📦 Featured Project Stats
 ![Stars](https://img.shields.io/github/stars/bikram73/LVH-Detection)
