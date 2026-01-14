@@ -184,6 +184,16 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 - 👤 **Unique Visitors:** TRAFFIC_UNIQUE_VISITORS
 - 📥 **Clones:** TRAFFIC_CLONES
 - 🔗 **Unique Cloners:** TRAFFIC_UNIQUE_CLONERS
+- 
+## 📊 GitHub Traffic (Last 14 Days)
+
+| Metric | Count |
+|--------|-------|
+| 👀 Views | TRAFFIC_VIEWS |
+| 👤 Unique Visitors | TRAFFIC_UNIQUE_VISITORS |
+| 📥 Clones | TRAFFIC_CLONES |
+| 🔗 Unique Cloners | TRAFFIC_UNIQUE_CLONERS |
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
