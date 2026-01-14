@@ -178,6 +178,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ![GitHub Metrics](https://raw.githubusercontent.com/bikram73/github-metrics/main/github-metrics.svg)
 
+![GitHub Metrics](https://raw.githubusercontent.com/bikram73/github-metrics/main/metrics.svg)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
