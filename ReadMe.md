@@ -180,19 +180,19 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ## 📊 GitHub Traffic (Last 14 Days)
 
-- 👀 **Views:** TRAFFIC_VIEWS
-- 👤 **Unique Visitors:** TRAFFIC_UNIQUE_VISITORS
-- 📥 **Clones:** TRAFFIC_CLONES
-- 🔗 **Unique Cloners:** TRAFFIC_UNIQUE_CLONERS
+- 👀 **Views:** 0
+- 👤 **Unique Visitors:** 0
+- 📥 **Clones:** 0
+- 🔗 **Unique Cloners:** 0
 - 
 ## 📊 GitHub Traffic (Last 14 Days)
 
 | Metric | Count |
 |--------|-------|
-| 👀 Views | TRAFFIC_VIEWS |
-| 👤 Unique Visitors | TRAFFIC_UNIQUE_VISITORS |
-| 📥 Clones | TRAFFIC_CLONES |
-| 🔗 Unique Cloners | TRAFFIC_UNIQUE_CLONERS |
+| 👀 Views | 0 |
+| 👤 Unique Visitors | 0 |
+| 📥 Clones | 0 |
+| 🔗 Unique Cloners | 0 |
 
 
 
