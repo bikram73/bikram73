@@ -191,45 +191,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 👀 Profile Visitors (All-Time)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bikram73&label=Profile%20Views&color=0e75b6&style=flat)
-
-
-## 📦 Repository Stats (All-Time)
-
-![Stars](https://img.shields.io/github/stars/bikram73/bikram73)
-![Forks](https://img.shields.io/github/forks/bikram73/bikram73)
-![Watchers](https://img.shields.io/github/watchers/bikram73/bikram73)
-
-
-## ⭐ GitHub Stats (All-Time)
-
-![Total Stars](https://img.shields.io/github/stars/bikram73?style=flat)
-![Followers](https://img.shields.io/github/followers/bikram73?style=flat)
-
-## ⭐ GitHub Stats (All-Time)
-
-![Total Stars](https://img.shields.io/github/stars/bikram73?style=flat)
-![Followers](https://img.shields.io/github/followers/bikram73?style=flat)
-
-## 📦 Featured Project
-
-![Stars](https://img.shields.io/github/stars/bikram73/Left_Ventricular_Hypertrophy_Detection)
-![Forks](https://img.shields.io/github/forks/bikram73/Left_Ventricular_Hypertrophy_Detection)
-![Watchers](https://img.shields.io/github/watchers/bikram73/Left_Ventricular_Hypertrophy_Detection)
-
-
-## 👀 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=bikram73)
-
-## 📊 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true)
-
-
-## 📦 Featured Project Stats
-![Stars](https://img.shields.io/github/stars/bikram73/LVH-Detection)
-![Forks](https://img.shields.io/github/forks/bikram73/LVH-Detection)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
