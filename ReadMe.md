@@ -141,6 +141,10 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🔝 Top Contributed Repo (Auto)
+
+![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=3&theme=dark)
+
 ---
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
