@@ -141,25 +141,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🔝 Top Contributed Repo (Auto)
-
-![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=3&theme=dark)
-
-### 🔝 Top Repositories
-
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=dark)
-
-### 🔝 Top Contributions
-
-• LVH Detection (ML & Deep Learning)  
-• Industry 4.0 Case Study – Boston Dynamics Stretch  
-• Node.js Full Stack Applications  
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=dark)
-
 ---
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=bikram73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
