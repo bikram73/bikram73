@@ -47,12 +47,16 @@ Hi, my name is Bikram Manna. I am a full-stack developer with a strong passion f
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px; width:150px;">
 </a>
 
-<a href="https://x.com/bikram8548">
-  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X (Twitter)" style="height:40px; width:150px;">
-</a>
-
 <a href="https://instagram.com/bikram__7_">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="height:40px; width:150px;">
+</a>
+
+<a href="https://www.youtube.com/@bikramtechzzz">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="height:40px; width:150px;">
+</a>
+
+<a href="https://x.com/bikram8548">
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X (Twitter)" style="height:40px; width:150px;">
 </a>
 
 <a href="https://www.facebook.com/share/1DWnPFcYcr/">
