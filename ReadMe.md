@@ -13,6 +13,7 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </h1>
+
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -187,6 +188,12 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ![GitHub Metrics](https://raw.githubusercontent.com/bikram73/github-metrics/main/github-metrics.svg)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwYmFwYmV5cXo1M2Nxb3lpc3lyZWg3YzdoZjc3dHZwY3JrZDM4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hJRYSzOe5QzXealMb0/giphy.gif" width="800" >
+</h1>
+
 <!--
 ## 📊 GitHub Traffic (Last 14 Days)
 
@@ -199,7 +206,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
