@@ -165,6 +165,13 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ![Snake animation](https://raw.githubusercontent.com/bikram73/bikram73/output/github-contribution-grid-snake-dark.svg)
 
+
+---
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwYmFwYmV5cXo1M2Nxb3lpc3lyZWg3YzdoZjc3dHZwY3JrZDM4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yPNVFnPOyo3E4Peg8C/giphy.gif" width="600">
+</h1>
+
 ---
 
 ### 📊 GitHub Profile Summary Cards:
