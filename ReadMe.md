@@ -5,8 +5,6 @@
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/><img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
   <br/>
-
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
 </h1>
 
@@ -18,6 +16,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=45&color=FFA500&vCenter=true&pause=1000" />
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
 # 💫 About Me:
