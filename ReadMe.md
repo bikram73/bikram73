@@ -5,9 +5,10 @@
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/><img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
   <br/>
-</h1>
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  
+</h1>
 
   
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
