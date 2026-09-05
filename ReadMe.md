@@ -165,8 +165,23 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/bikram73/bikram73/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
+</p>
 
+## 🕹️ Pac-Man Contribution Graph
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man Contribution Graph"
+  />
+</p>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
