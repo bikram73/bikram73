@@ -223,6 +223,16 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   />
 </p>
 
+## 🐍 Snake + Food Contribution:
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output-snake-food/snake-food-contribution-graph.svg"
+    width="100%"
+    alt="Snake and Food Contribution Graph"
+  />
+</p>
+
 ## 🧩 Tetris Contribution:
 
 <p align="center">
@@ -242,6 +252,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
     alt="Space Invaders Contribution"
   />
 </p>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
