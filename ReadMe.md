@@ -202,28 +202,31 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 🐍 Snake Contribution:
+## 🐍 Snake Contribution
 
 <p align="center">
   <img
-    width="100%"
     src="https://raw.githubusercontent.com/bikram73/bikram73/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
+    width="100%"
+    alt="Snake Contribution Animation"
   />
 </p>
 
-## 🕹️ Pac-Man Contribution:
+---
+
+## 🕹️ Pac-Man Contribution
 
 <p align="center">
   <img
-    width="100%"
     src="https://raw.githubusercontent.com/bikram73/bikram73/output/pacman-contribution-graph-dark.svg"
+    width="100%"
     alt="Pac-Man Contribution Graph"
   />
 </p>
 
-## 🐍 Snake + Food Contribution:
+---
+
+## 🐍 Snake + Food Contribution
 
 <p align="center">
   <img
@@ -233,7 +236,31 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   />
 </p>
 
-## 🧩 Tetris Contribution:
+---
+
+## 👽 Commit Invaders
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bikram73/bikram73/output-commit-invaders/commit-invaders-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bikram73/bikram73/output-commit-invaders/commit-invaders.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/bikram73/bikram73/output-commit-invaders/commit-invaders.svg"
+      width="100%"
+      alt="Commit Invaders Contribution Animation"
+    />
+  </picture>
+</p>
+
+---
+
+## 🧩 Tetris Contribution
 
 <p align="center">
   <img
@@ -243,7 +270,9 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   />
 </p>
 
-## 👾 Space Invaders Contribution:
+---
+
+## 👾 Space Invaders Contribution
 
 <p align="center">
   <img
@@ -252,8 +281,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
     alt="Space Invaders Contribution"
   />
 </p>
-
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
