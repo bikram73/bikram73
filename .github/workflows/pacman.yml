@@ -1,27 +1,35 @@
-name: Generate Pac-Man Contribution Graph
+name: Update Pac-Man Contribution Graph
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  generate:
+  build:
     permissions:
       contents: write
 
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+      - uses: actions/checkout@v3
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Generate Pac-Man SVG
+        uses: AndreRuperto/svg-pacman-contributions@main
         with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github-dark
+          output_directory: dist
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
