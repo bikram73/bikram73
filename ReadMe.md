@@ -202,6 +202,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 🐍 Snake Contribution
 
 <p align="center">
