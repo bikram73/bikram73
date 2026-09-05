@@ -284,56 +284,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 </p>
 
 
-## 🧱 Breakout Contribution
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bikram73/bikram73/output/breakout-contribution-graph-dark.svg"
-    width="100%"
-    alt="Breakout Contribution Graph"
-  />
-</p>
-
-## 🚀 Galaga Contribution
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bikram73/bikram73/output/galaga-contribution-graph-dark.svg"
-    width="100%"
-    alt="Galaga Contribution Graph"
-  />
-</p>
-
-## 🫧 Puzzle Bobble Contribution
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bikram73/bikram73/output/puzzle-bobble-contribution-graph-dark.svg"
-    width="100%"
-    alt="Puzzle Bobble Contribution Graph"
-  />
-</p>
-
-## 💣 Bomberman Contribution
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bikram73/bikram73/output/bomberman-contribution-graph-dark.svg"
-    width="100%"
-    alt="Bomberman Contribution Graph"
-  />
-</p>
-
-
-## 💠 Minesweeper Contribution
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bikram73/bikram73/output/minesweeper-contribution-graph-dark.svg"
-    width="100%"
-    alt="Minesweeper Contribution Graph"
-  />
-</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
