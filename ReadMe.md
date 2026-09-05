@@ -136,24 +136,45 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-## 📈 Contribution Activity:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true)
-
----
-# 📊 GitHub Stats:
+## 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=transparent&hide_border=true"
+    src="https://YOUR-ACTIVITY-GRAPH.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true"
+    width="100%"
+    alt="Bikram's Contribution Activity Graph"
+  />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://YOUR-GITHUB-STATS.vercel.app/api?username=bikram73&show_icons=true&theme=transparent&hide_border=true"
     height="180"
     alt="Bikram's GitHub Stats"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=transparent&hide_border=true"
+    src="https://YOUR-GITHUB-STATS.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=transparent&hide_border=true"
     height="180"
     alt="Top Languages"
   />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=bikram73&theme=transparent"
+    alt="Bikram's GitHub Streak"
+  />
+</p>
+
+---
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
