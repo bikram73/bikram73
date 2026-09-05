@@ -166,7 +166,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   />
 </p>
 
----
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🔥 GitHub Streak
 
@@ -189,7 +190,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
     alt="Top Contributed Repository"
   />
 </p>
----
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🏆 GitHub Trophies:
 <p align="left"><img src="https://github-trophies.vercel.app/?username=bikram73&theme=radical" alt="bikram73" />
