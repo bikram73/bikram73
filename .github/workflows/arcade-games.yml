@@ -1,9 +1,9 @@
 name: 🎮 Arcade Contribution Games
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,23 +12,22 @@ permissions:
   contents: write
 
 jobs:
-  generate-arcade:
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: 🎮 Generate Pac-Man, Breakout, Galaga, Puzzle Bobble
+      - name: 🎮 Generate Arcade Games
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
           games: "pacman,breakout,galaga,puzzle-bobble"
-          hide_month_labels: "false"
 
-      - name: 🚀 Publish Arcade Games
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: 🚀 Publish SVGs
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          build_dir: dist
           target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
