@@ -8,27 +8,27 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  generate-arcade:
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
-    permissions:
-      contents: write
-
     steps:
-      - name: 🎮 Generate Arcade Games
+      - name: 🎮 Generate Pac-Man, Breakout, Galaga, Puzzle Bobble
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper"
+          games: "pacman,breakout,galaga,puzzle-bobble"
           hide_month_labels: "false"
 
-      - name: 🚀 Publish SVGs
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: 🚀 Publish Arcade Games
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
