@@ -1,0 +1,37 @@
+name: 👾 Space Invaders Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Space Invaders
+        uses: VARDHAMANPATEL23/git-invader@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_username: bikram73
+          color: multi
+          mode: dark
+          ship: rocket
+
+      - name: Publish Space Invaders
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-space-invaders
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
