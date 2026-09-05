@@ -16,25 +16,75 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
 
     steps:
 
       # ============================================================
-      # 🕹️ PAC-MAN + ARCADE GAMES
+      # 📁 PREPARE
       # ============================================================
 
-      - name: 🕹️ Generate Pac-Man, Breakout, Galaga, Puzzle Bobble
+      - name: 📁 Prepare directories
+        run: |
+          rm -rf dist generated
+          mkdir -p dist
+          mkdir -p generated/arcade
+          mkdir -p generated/snake
+          mkdir -p generated/tetris
+          mkdir -p generated/space
+
+
+      # ============================================================
+      # 🕹️ ARCADE GAMES
+      # ============================================================
+
+      - name: 🕹️ Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "pacman,breakout,galaga,puzzle-bobble"
+          games: "pacman"
+
+      - name: 📦 Save Pac-Man
+        run: |
+          cp -f dist/pacman-contribution-graph*.svg generated/arcade/ || true
 
 
-      # ============================================================
-      # 💣 BOMBERMAN
-      # ============================================================
+      - name: 🧱 Generate Breakout
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "breakout"
+
+      - name: 📦 Save Breakout
+        run: |
+          cp -f dist/breakout-contribution-graph*.svg generated/arcade/ || true
+
+
+      - name: 🚀 Generate Galaga
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "galaga"
+
+      - name: 📦 Save Galaga
+        run: |
+          cp -f dist/galaga-contribution-graph*.svg generated/arcade/ || true
+
+
+      - name: 🫧 Generate Puzzle Bobble
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "puzzle-bobble"
+
+      - name: 📦 Save Puzzle Bobble
+        run: |
+          cp -f dist/puzzle-bobble-contribution-graph*.svg generated/arcade/ || true
+
 
       - name: 💣 Generate Bomberman
         uses: abozanona/pacman-contribution-graph@main
@@ -43,10 +93,10 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           games: "bomberman"
 
+      - name: 📦 Save Bomberman
+        run: |
+          cp -f dist/bomberman-contribution-graph*.svg generated/arcade/ || true
 
-      # ============================================================
-      # 💠 MINESWEEPER
-      # ============================================================
 
       - name: 💠 Generate Minesweeper
         uses: abozanona/pacman-contribution-graph@main
@@ -55,18 +105,58 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           games: "minesweeper"
 
+      - name: 📦 Save Minesweeper
+        run: |
+          cp -f dist/minesweeper-contribution-graph*.svg generated/arcade/ || true
+
 
       # ============================================================
-      # 🐍 SNAKE
+      # 🐍 STANDARD SNAKE
       # ============================================================
 
-      - name: 🐍 Generate Snake
+      - name: 🐍 Generate Snake - GitHub Dark
         uses: Platane/snk@v3
         with:
           github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            generated/snake/snake-dark.svg?palette=github-dark
+
+
+      - name: 🐍🌊 Generate Snake - Ocean
+        uses: Platane/snk@v3
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            generated/snake/snake-ocean.gif?color_snake=#00bfff&color_dots=#dff9ff,#7dd3fc,#38bdf8,#0284c7,#075985
+
+
+      - name: 🐍🔥 Generate Snake - Fire
+        uses: Platane/snk@v3
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            generated/snake/snake-fire.gif?color_snake=#ff4500&color_dots=#fff1e6,#ffcc80,#ff9800,#f4511e,#b71c1c
+
+
+      - name: 🐍💜 Generate Snake - Purple
+        uses: Platane/snk@v3
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            generated/snake/snake-purple.gif?color_snake=#a855f7&color_dots=#faf5ff,#e9d5ff,#c084fc,#9333ea,#581c87
+
+
+      - name: 🐍⚡ Generate Snake - Neon
+        uses: Platane/snk@v3
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            generated/snake/snake-neon.gif?color_snake=#00ff88&color_dots=#ecfeff,#67e8f9,#22d3ee,#06b6d4,#0891b2
 
 
       # ============================================================
@@ -76,47 +166,132 @@ jobs:
       - name: 🐍🍎 Generate Snake + Food
         uses: leereilly/contribution-graph-art@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
           animation_mode: "snake"
           food_count: "5"
-          output_path: dist/contribution-graph-snake.svg
+          output_path: generated/snake/snake-food.svg
 
 
       # ============================================================
-      # 🧩 TETRIS
+      # 🧩 TETRIS VARIANT 1
       # ============================================================
 
-      - name: 🧩 Generate Tetris
+      - name: 🧩 Generate Tetris - Classic
         uses: leereilly/contribution-graph-art@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
           tetromino_count: "5"
-          output_path: dist/contribution-graph-tetrominoes.svg
+          animation_duration: "8"
+          output_path: generated/tetris/tetris-classic.svg
 
 
       # ============================================================
-      # 👾 SPACE INVADERS
+      # 🧩 TETRIS VARIANT 2
       # ============================================================
 
-      - name: 👾 Generate Space Invaders
-        uses: VARDHAMANPATEL23/git-invader@v1.0.0
+      - name: 🧩 Generate Tetris - Fast
+        uses: leereilly/contribution-graph-art@v1
         with:
+          github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_username: bikram73
-          color: multi
-          mode: dark
+          tetromino_count: "8"
+          animation_duration: "5"
+          output_path: generated/tetris/tetris-fast.svg
 
 
       # ============================================================
-      # 🚀 PUBLISH EVERYTHING TO OUTPUT
+      # 🧩 TETRIS VARIANT 3
       # ============================================================
 
-      - name: 🚀 Publish All Contribution Animations
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: 🧩 Generate Tetris - Slow
+        uses: leereilly/contribution-graph-art@v1
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          tetromino_count: "3"
+          animation_duration: "12"
+          output_path: generated/tetris/tetris-slow.svg
+
+
+      # ============================================================
+      # 🚀 SPACE SHOOTER
+      # ============================================================
+
+      - name: 🚀 Generate Space Shooter
+        uses: actions/checkout@v6
+
+      - name: 🚀 Space Shooter - Random
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: generated/space/space-shooter-random.gif
+          strategy: random
+
+
+      # ============================================================
+      # 🚀 SPACE SHOOTER - ROW
+      # ============================================================
+
+      - name: 🚀 Space Shooter - Row
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: generated/space/space-shooter-row.gif
+          strategy: row
+
+
+      # ============================================================
+      # 📦 COLLECT EVERYTHING
+      # ============================================================
+
+      - name: 📦 Collect generated files
+        run: |
+          find generated -type f \( -name "*.svg" -o -name "*.gif" -o -name "*.webp" \) -exec cp {} dist/ \;
+
+          echo ""
+          echo "========================================"
+          echo "🎮 CONTRIBUTION ARCADE FILES"
+          echo "========================================"
+
+          ls -lah dist
+
+
+      # ============================================================
+      # 🔍 VERIFY
+      # ============================================================
+
+      - name: 🔍 Verify contribution games
+        run: |
+          test -f dist/pacman-contribution-graph-dark.svg
+          test -f dist/breakout-contribution-graph-dark.svg
+          test -f dist/galaga-contribution-graph-dark.svg
+          test -f dist/puzzle-bobble-contribution-graph-dark.svg
+          test -f dist/bomberman-contribution-graph-dark.svg
+          test -f dist/minesweeper-contribution-graph-dark.svg
+          test -f dist/snake-dark.svg
+          test -f dist/snake-food.svg
+          test -f dist/tetris-classic.svg
+          test -f dist/tetris-fast.svg
+          test -f dist/tetris-slow.svg
+          test -f dist/space-shooter-random.gif
+          test -f dist/space-shooter-row.gif
+
+          echo "========================================"
+          echo "✅ ALL VERIFIED"
+          echo "========================================"
+
+
+      # ============================================================
+      # 🚀 SINGLE DEPLOYMENT
+      # ============================================================
+
+      - name: 🚀 Publish Everything
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
