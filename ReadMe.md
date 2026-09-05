@@ -160,8 +160,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=transparent&hide_border=true"
-    width="70%"
+    src="https://YOUR-GITHUB-STATS.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=transparent&hide_border=true"
+    width="90%"
     alt="Top Languages"
   />
 </p>
@@ -180,7 +180,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 
 <p align="center">
   <img
