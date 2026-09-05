@@ -163,7 +163,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🐍 Contribution Snake
+## 🐍 Snake Contribution:
 
 <p align="center">
   <img
@@ -173,7 +173,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   />
 </p>
 
-## 🕹️ Pac-Man Contribution Graph
+## 🕹️ Pac-Man Contribution:
 
 <p align="center">
   <img
