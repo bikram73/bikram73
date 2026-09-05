@@ -140,7 +140,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <p align="center">
   <img
-    src="https://YOUR-ACTIVITY-GRAPH.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true"
     width="100%"
     alt="Bikram's Contribution Activity Graph"
   />
@@ -152,36 +152,43 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <p align="center">
   <img
-    src="https://YOUR-GITHUB-STATS.vercel.app/api?username=bikram73&show_icons=true&theme=transparent&hide_border=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=transparent&hide_border=true"
+    width="90%"
     alt="Bikram's GitHub Stats"
   />
+</p>
 
+<p align="center">
   <img
-    src="https://YOUR-GITHUB-STATS.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=transparent&hide_border=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram73&layout=compact&theme=transparent&hide_border=true"
+    width="70%"
     alt="Top Languages"
   />
 </p>
+
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=bikram73&theme=transparent"
+    width="75%"
     alt="Bikram's GitHub Streak"
   />
 </p>
 
 ---
 
+### 🔝 Top Contributed Repo
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=bikram73&limit=5&theme=dark&combine_all_yearly_contributions=true"
+    width="90%"
+    alt="Top Contributed Repository"
+  />
+</p>
 ---
 
 ## 🏆 GitHub Trophies:
