@@ -1,30 +1,66 @@
-name: Generate Contribution Animations
+name: 🎮 Generate All Contribution Animations
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
+    timeout-minutes: 30
 
     steps:
-      # Generate Pac-Man
-      - name: Generate Pac-Man
+
+      # ============================================================
+      # 🕹️ PAC-MAN + ARCADE GAMES
+      # ============================================================
+
+      - name: 🕹️ Generate Pac-Man, Breakout, Galaga, Puzzle Bobble
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "pacman,breakout,galaga,puzzle-bobble"
 
-      # Generate Snake into the SAME dist folder
-      - name: Generate Snake
+
+      # ============================================================
+      # 💣 BOMBERMAN
+      # ============================================================
+
+      - name: 💣 Generate Bomberman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "bomberman"
+
+
+      # ============================================================
+      # 💠 MINESWEEPER
+      # ============================================================
+
+      - name: 💠 Generate Minesweeper
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: bikram73
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "minesweeper"
+
+
+      # ============================================================
+      # 🐍 SNAKE
+      # ============================================================
+
+      - name: 🐍 Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: bikram73
@@ -32,9 +68,53 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Publish BOTH Pac-Man and Snake together
-      - name: Publish animations
-        uses: crazy-max/ghaction-github-pages@v4
+
+      # ============================================================
+      # 🐍🍎 SNAKE + FOOD
+      # ============================================================
+
+      - name: 🐍🍎 Generate Snake + Food
+        uses: leereilly/contribution-graph-art@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          animation_mode: "snake"
+          food_count: "5"
+          output_path: dist/contribution-graph-snake.svg
+
+
+      # ============================================================
+      # 🧩 TETRIS
+      # ============================================================
+
+      - name: 🧩 Generate Tetris
+        uses: leereilly/contribution-graph-art@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          tetromino_count: "5"
+          output_path: dist/contribution-graph-tetrominoes.svg
+
+
+      # ============================================================
+      # 👾 SPACE INVADERS
+      # ============================================================
+
+      - name: 👾 Generate Space Invaders
+        uses: VARDHAMANPATEL23/git-invader@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_username: bikram73
+          color: multi
+          mode: dark
+
+
+      # ============================================================
+      # 🚀 PUBLISH EVERYTHING TO OUTPUT
+      # ============================================================
+
+      - name: 🚀 Publish All Contribution Animations
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
