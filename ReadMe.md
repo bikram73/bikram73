@@ -358,7 +358,7 @@ width="100%"
 </p>
 
 ---
-
+<!--
 ## 🚀 Galaga Contribution
 
 <p align="center">
@@ -382,7 +382,7 @@ width="100%"
 </p>
 
 ---
-
+-->
 ## 💣 Bomberman Contribution
 
 <p align="center">
@@ -394,7 +394,7 @@ width="100%"
 </p>
 
 ---
-
+<!--
 ## 💠 Minesweeper Contribution
 
 <p align="center">
@@ -418,7 +418,7 @@ width="100%"
 </p>
 
 ---
-<!--
+
 ## 🧩⚡ Tetris Fast Contribution
 
 <p align="center">
