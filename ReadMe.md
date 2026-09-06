@@ -491,10 +491,11 @@ width="100%"
 -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwYmFwYmV5cXo1M2Nxb3lpc3lyZWg3YzdoZjc3dHZwY3JrZDM4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yPNVFnPOyo3E4Peg8C/giphy.gif" width="600">
-</h1>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwYmFwYmV5cXo1M2Nxb3lpc3lyZWg3YzdoZjc3dHZwY3JrZDM4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yPNVFnPOyo3E4Peg8C/giphy.gif" width="400">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwM3hyd2tlZm10Nm1iN2lnMzNlOGt6aTR3aGQxdDZmZjYwdXJ2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4XK1gKM7ixoNZf8OFX/giphy.gif" width="400" height="400">
+  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 📊 GitHub Profile Summary Cards:
