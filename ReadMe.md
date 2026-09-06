@@ -137,7 +137,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity:
 
 <p align="center">
   <img
@@ -150,7 +150,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 ---
 
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <!-- GitHub Statistics -->
 
@@ -218,7 +218,7 @@ width="100%"
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak:
 
 <p align="center">
   <img
@@ -252,7 +252,7 @@ width="100%"
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🐍 Snake Contribution
+## 🐍 Snake Contribution:
 
 <p align="center">
   <picture>
@@ -275,7 +275,7 @@ width="100%"
 ---
 
 <!--
-## 🐍🌊 Ocean Snake Contribution
+## 🐍🌊 Ocean Snake Contribution:
 
 <p align="center">
   <img
@@ -287,7 +287,7 @@ width="100%"
 
 ---
 
-## 🐍🔥 Fire Snake Contribution
+## 🐍🔥 Fire Snake Contribution:
 
 <p align="center">
   <img
@@ -299,7 +299,7 @@ width="100%"
 
 ---
 
-## 🐍💜 Purple Snake Contribution
+## 🐍💜 Purple Snake Contribution:
 
 <p align="center">
   <img
@@ -311,7 +311,7 @@ width="100%"
 
 ---
 
-## 🐍⚡ Neon Snake Contribution
+## 🐍⚡ Neon Snake Contribution:
 
 <p align="center">
   <img
@@ -323,7 +323,7 @@ width="100%"
 
 ---
 
-## 🐍🍎 Snake + Food Contribution
+## 🐍🍎 Snake + Food Contribution:
 
 <p align="center">
   <img
@@ -335,7 +335,7 @@ width="100%"
 
 ---
 -->
-## 🕹️ Pac-Man Contribution
+## 🕹️ Pac-Man Contribution:
 
 <p align="center">
   <img
@@ -347,7 +347,7 @@ width="100%"
 
 ---
 
-## 🧱 Breakout Contribution
+## 🧱 Breakout Contribution:
 
 <p align="center">
   <img
@@ -359,7 +359,7 @@ width="100%"
 
 ---
 <!--
-## 🚀 Galaga Contribution
+## 🚀 Galaga Contribution:
 
 <p align="center">
   <img
@@ -371,7 +371,7 @@ width="100%"
 
 ---
 
-## 🫧 Puzzle Bobble Contribution
+## 🫧 Puzzle Bobble Contribution:
 
 <p align="center">
   <img
@@ -383,7 +383,7 @@ width="100%"
 
 ---
 -->
-## 💣 Bomberman Contribution
+## 💣 Bomberman Contribution:
 
 <p align="center">
   <img
@@ -395,7 +395,7 @@ width="100%"
 
 ---
 <!--
-## 💠 Minesweeper Contribution
+## 💠 Minesweeper Contribution:
 
 <p align="center">
   <img
@@ -407,7 +407,7 @@ width="100%"
 
 ---
 
-## 🧩 Tetris Classic Contribution
+## 🧩 Tetris Classic Contribution:
 
 <p align="center">
   <img
@@ -419,7 +419,7 @@ width="100%"
 
 ---
 
-## 🧩⚡ Tetris Fast Contribution
+## 🧩⚡ Tetris Fast Contribution:
 
 <p align="center">
   <img
@@ -431,7 +431,7 @@ width="100%"
 
 ---
 
-## 🧩🐢 Tetris Slow Contribution
+## 🧩🐢 Tetris Slow Contribution:
 
 <p align="center">
   <img
@@ -443,7 +443,7 @@ width="100%"
 
 ---
 -->
-## 👾 Space Invaders Contribution
+## 👾 Space Invaders Contribution:
 
 <p align="center">
   <img
@@ -455,7 +455,7 @@ width="100%"
 
 ---
 
-## 👽 Commit Invaders Contribution
+## 👽 Commit Invaders Contribution:
 
 <p align="center">
   <img
@@ -467,7 +467,7 @@ width="100%"
 
 ---
 
-## 🚀 Space Shooter — Random Contribution
+## 🚀 Space Shooter — Random Contribution:
 
 <p align="center">
   <img
@@ -479,7 +479,7 @@ width="100%"
 
 ---
 <!--
-## 🚀 Space Shooter — Row Contribution
+## 🚀 Space Shooter — Row Contribution:
 
 <p align="center">
   <img
