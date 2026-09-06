@@ -215,6 +215,66 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
+## 🐍🌊 Ocean Snake Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/snake-ocean.svg"
+    width="100%"
+    alt="Ocean Snake Contribution Animation"
+  />
+</p>
+
+---
+
+## 🐍🔥 Fire Snake Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/snake-fire.svg"
+    width="100%"
+    alt="Fire Snake Contribution Animation"
+  />
+</p>
+
+---
+
+## 🐍💜 Purple Snake Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/snake-purple.svg"
+    width="100%"
+    alt="Purple Snake Contribution Animation"
+  />
+</p>
+
+---
+
+## 🐍⚡ Neon Snake Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/snake-neon.svg"
+    width="100%"
+    alt="Neon Snake Contribution Animation"
+  />
+</p>
+
+---
+
+## 🐍🍎 Snake + Food Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/snake-food.svg"
+    width="100%"
+    alt="Snake and Food Contribution Animation"
+  />
+</p>
+
+---
+
 ## 🕹️ Pac-Man Contribution
 
 <p align="center">
@@ -227,62 +287,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
-## 🐍 Snake + Food Contribution
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bikram73/bikram73/output-snake-food/snake-food-contribution-graph.svg"
-    width="100%"
-    alt="Snake and Food Contribution Graph"
-  />
-</p>
-
----
-
-## 👽 Commit Invaders
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bikram73/bikram73/output-commit-invaders/commit-invaders-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/bikram73/bikram73/output-commit-invaders/commit-invaders.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/bikram73/bikram73/output-commit-invaders/commit-invaders.svg"
-      width="100%"
-      alt="Commit Invaders Contribution Animation"
-    />
-  </picture>
-</p>
-
----
-
-## 🧩 Tetris Contribution
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bikram73/bikram73/output-tetris/tetris-contribution-graph.svg"
-    width="100%"
-    alt="Tetris Contribution Graph"
-  />
-</p>
-
----
-
-## 👾 Space Invaders Contribution
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bikram73/bikram73/output-space-invaders/git-invader-multi-dark.svg"
-    width="100%"
-    alt="Space Invaders Contribution"
-  />
-</p>
-
 ## 🧱 Breakout Contribution
 
 <p align="center">
@@ -292,6 +296,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
     alt="Breakout Contribution Graph"
   />
 </p>
+
+---
 
 ## 🚀 Galaga Contribution
 
@@ -303,6 +309,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   />
 </p>
 
+---
+
 ## 🫧 Puzzle Bobble Contribution
 
 <p align="center">
@@ -312,6 +320,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
     alt="Puzzle Bobble Contribution Graph"
   />
 </p>
+
+---
 
 ## 💣 Bomberman Contribution
 
@@ -323,7 +333,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   />
 </p>
 
-
+---
 
 ## 💠 Minesweeper Contribution
 
@@ -333,7 +343,90 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
     width="100%"
     alt="Minesweeper Contribution Graph"
   />
+</p>
 
+---
+
+## 🧩 Tetris Classic Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/tetris-classic.svg"
+    width="100%"
+    alt="Tetris Classic Contribution Animation"
+  />
+</p>
+
+---
+
+## 🧩⚡ Tetris Fast Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/tetris-fast.svg"
+    width="100%"
+    alt="Tetris Fast Contribution Animation"
+  />
+</p>
+
+---
+
+## 🧩🐢 Tetris Slow Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/tetris-slow.svg"
+    width="100%"
+    alt="Tetris Slow Contribution Animation"
+  />
+</p>
+
+---
+
+## 👾 Space Invaders Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/git-invader-multi-dark.svg"
+    width="100%"
+    alt="Space Invaders Contribution Animation"
+  />
+</p>
+
+---
+
+## 👽 Commit Invaders Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/commit-invaders-dark.svg"
+    width="100%"
+    alt="Commit Invaders Contribution Animation"
+  />
+</p>
+
+---
+
+## 🚀 Space Shooter — Random Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/space-shooter-random.gif"
+    width="100%"
+    alt="Random Space Shooter Contribution Animation"
+  />
+</p>
+
+---
+
+## 🚀 Space Shooter — Row Contribution
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bikram73/bikram73/output/space-shooter-row.gif"
+    width="100%"
+    alt="Row Space Shooter Contribution Animation"
+  />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
