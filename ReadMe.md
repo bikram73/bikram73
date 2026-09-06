@@ -152,8 +152,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 <!-- <details> -->
 
-### 📊 My GitHub & GitRoll Stats
-
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
