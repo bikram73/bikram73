@@ -148,16 +148,18 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
+
 # 📊 GitHub Stats
 
-<!-- <details> -->
+<!-- GitHub Statistics -->
 
 <table align="center" width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 <img
-src="https://github-readme-stats-plum-one-24.vercel.app/api?username=bikram73&show_icons=true&include_all_commits=true&theme=highcontrast"
+src="https://github-readme-stats-plum-one-24.vercel.app/api?username=bikram73&show_icons=true&include_all_commits=true&theme=tokyonight"
 alt="GitHub Stats"
 width="100%"
 />
@@ -167,19 +169,21 @@ width="100%"
 <td width="50%" valign="top">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=highcontrast"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=tokyonight"
 alt="GitHub Statistics"
 width="100%"
 />
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <img
-src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=bikram73&hide=html,css&layout=compact&theme=highcontrast"
+src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=bikram73&hide=html,css&layout=compact&theme=tokyonight"
 alt="Top Languages"
 width="100%"
 />
@@ -189,20 +193,16 @@ width="100%"
 <td width="50%" valign="top">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=highcontrast"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=tokyonight"
 alt="Productive Time"
 width="100%"
 />
 
 </td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
 
 </tr>
 </table>
+
 
 <!-- </details> -->
 
