@@ -1,0 +1,46 @@
+name: 👽 Generate Commit Invaders
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-invaders
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+
+      # ============================================================
+      # 📥 CHECKOUT
+      # ============================================================
+
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+
+      # ============================================================
+      # 👽 GENERATE COMMIT INVADERS
+      # ============================================================
+
+      - name: 👽 Generate Commit Invaders
+        uses: Goblinlordx/commit-invaders@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          output_branch: output
+          output_file: commit-invaders.svg
+          no_scoreboard: false
