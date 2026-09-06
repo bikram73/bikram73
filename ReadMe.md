@@ -225,7 +225,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 ---
 
-
+<!--
 ## 🐍🌊 Ocean Snake Contribution
 
 <p align="center">
@@ -273,7 +273,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 </p>
 
 ---
-
+-->
 ## 🐍🍎 Snake + Food Contribution
 
 <p align="center">
@@ -369,7 +369,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 </p>
 
 ---
-
+<!--
 ## 🧩⚡ Tetris Fast Contribution
 
 <p align="center">
@@ -393,7 +393,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 </p>
 
 ---
-
+-->
 ## 👾 Space Invaders Contribution
 
 <p align="center">
