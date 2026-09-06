@@ -203,18 +203,6 @@ width="100%"
 <table align="center" width="100%">
 <tr>
 
-<td width="50%" align="center" valign="middle">
-
-<a href="https://git.io/streak-stats">
-<img
-src="https://streak-stats.demolab.com/?user=bikram73&theme=highcontrast"
-alt="GitHub Streak"
-/>
-</a>
-
-</td>
-
-
 </tr>
 </table>
 
