@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-animations
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -49,164 +53,29 @@ jobs:
 
 
       # ============================================================
-      # 🕹️ PAC-MAN
+      # 🐍 SNAKE COLLECTION
       # ============================================================
 
-      - name: 🕹️ Generate Pac-Man
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "pacman"
+      # IMPORTANT:
+      # Generate ALL snake variants in ONE Platane/snk action.
+      #
+      # We intentionally use only color_snake + palette.
+      # This avoids the black/empty SVG problem caused by the
+      # previous custom color_dots configuration.
 
-      - name: 📦 Save Pac-Man
-        run: |
-          cp -f dist/pacman-contribution-graph*.svg generated/arcade/ || true
-
-
-      # ============================================================
-      # 🧱 BREAKOUT
-      # ============================================================
-
-      - name: 🧱 Generate Breakout
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "breakout"
-
-      - name: 📦 Save Breakout
-        run: |
-          cp -f dist/breakout-contribution-graph*.svg generated/arcade/ || true
-
-
-      # ============================================================
-      # 🚀 GALAGA
-      # ============================================================
-
-      - name: 🚀 Generate Galaga
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "galaga"
-
-      - name: 📦 Save Galaga
-        run: |
-          cp -f dist/galaga-contribution-graph*.svg generated/arcade/ || true
-
-
-      # ============================================================
-      # 🫧 PUZZLE BOBBLE
-      # ============================================================
-
-      - name: 🫧 Generate Puzzle Bobble
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "puzzle-bobble"
-
-      - name: 📦 Save Puzzle Bobble
-        run: |
-          cp -f dist/puzzle-bobble-contribution-graph*.svg generated/arcade/ || true
-
-
-      # ============================================================
-      # 💣 BOMBERMAN
-      # ============================================================
-
-      - name: 💣 Generate Bomberman
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "bomberman"
-
-      - name: 📦 Save Bomberman
-        run: |
-          cp -f dist/bomberman-contribution-graph*.svg generated/arcade/ || true
-
-
-      # ============================================================
-      # 💠 MINESWEEPER
-      # ============================================================
-
-      - name: 💠 Generate Minesweeper
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: "minesweeper"
-
-      - name: 📦 Save Minesweeper
-        run: |
-          cp -f dist/minesweeper-contribution-graph*.svg generated/arcade/ || true
-
-
-      # ============================================================
-      # 🐍 STANDARD SNAKE
-      # ============================================================
-
-      - name: 🐍 Generate Snake
+      - name: 🐍 Generate All Snake Variants
         uses: Platane/snk@v3
         with:
-          github_user_name: bikram73
+          github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
           outputs: |
-            generated/snake/snake-dark.svg?palette=github-dark
-
-
-      # ============================================================
-      # 🐍🌊 OCEAN SNAKE
-      # ============================================================
-
-      - name: 🐍🌊 Generate Ocean Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            generated/snake/snake-ocean.svg?color_snake=00bfff&color_dots=ffffff,7dd3fc,38bdf8,0284c7,075985
-
-
-      # ============================================================
-      # 🐍🔥 FIRE SNAKE
-      # ============================================================
-
-      - name: 🐍🔥 Generate Fire Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            generated/snake/snake-fire.svg?color_snake=ff4500&color_dots=ffffff,ffcc80,ff9800,f4511e,b71c1c
-
-
-      # ============================================================
-      # 🐍💜 PURPLE SNAKE
-      # ============================================================
-
-      - name: 🐍💜 Generate Purple Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            generated/snake/snake-purple.svg?color_snake=a855f7&color_dots=ffffff,e9d5ff,c084fc,9333ea,581c87
-
-
-      # ============================================================
-      # 🐍⚡ NEON SNAKE
-      # ============================================================
-
-      - name: 🐍⚡ Generate Neon Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: bikram73
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            generated/snake/snake-neon.svg?color_snake=00ff88&color_dots=ffffff,67e8f9,22d3ee,06b6d4,0891b2
+            generated/snake/github-contribution-grid-snake.svg?palette=github-light
+            generated/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+            generated/snake/snake-ocean.svg?palette=github-dark&color_snake=00bfff
+            generated/snake/snake-fire.svg?palette=github-dark&color_snake=ff4500
+            generated/snake/snake-purple.svg?palette=github-dark&color_snake=a855f7
+            generated/snake/snake-neon.svg?palette=github-dark&color_snake=00ff88
 
 
       # ============================================================
@@ -216,11 +85,149 @@ jobs:
       - name: 🐍🍎 Generate Snake + Food
         uses: leereilly/contribution-graph-art@v1
         with:
-          github_user_name: bikram73
+          github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           animation_mode: "snake"
           food_count: "5"
           output_path: generated/snake/snake-food.svg
+
+
+      # ============================================================
+      # 🕹️ PAC-MAN / ARCADE COLLECTION
+      # ============================================================
+
+      - name: 🕹️ Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "pacman"
+
+      - name: 📦 Copy Pac-Man
+        shell: bash
+        run: |
+          set -e
+
+          find . -type f \
+            \( -name "pacman-contribution-graph.svg" \
+            -o -name "pacman-contribution-graph-dark.svg" \) \
+            -not -path "./.git/*" \
+            -exec cp {} generated/arcade/ \; 2>/dev/null || true
+
+
+      # ============================================================
+      # 🧱 BREAKOUT
+      # ============================================================
+
+      - name: 🧱 Generate Breakout
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "breakout"
+
+      - name: 📦 Copy Breakout
+        shell: bash
+        run: |
+          set -e
+
+          find . -type f \
+            \( -name "breakout-contribution-graph.svg" \
+            -o -name "breakout-contribution-graph-dark.svg" \) \
+            -not -path "./.git/*" \
+            -exec cp {} generated/arcade/ \; 2>/dev/null || true
+
+
+      # ============================================================
+      # 🚀 GALAGA
+      # ============================================================
+
+      - name: 🚀 Generate Galaga
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "galaga"
+
+      - name: 📦 Copy Galaga
+        shell: bash
+        run: |
+          set -e
+
+          find . -type f \
+            \( -name "galaga-contribution-graph.svg" \
+            -o -name "galaga-contribution-graph-dark.svg" \) \
+            -not -path "./.git/*" \
+            -exec cp {} generated/arcade/ \; 2>/dev/null || true
+
+
+      # ============================================================
+      # 🫧 PUZZLE BOBBLE
+      # ============================================================
+
+      - name: 🫧 Generate Puzzle Bobble
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "puzzle-bobble"
+
+      - name: 📦 Copy Puzzle Bobble
+        shell: bash
+        run: |
+          set -e
+
+          find . -type f \
+            \( -name "puzzle-bobble-contribution-graph.svg" \
+            -o -name "puzzle-bobble-contribution-graph-dark.svg" \) \
+            -not -path "./.git/*" \
+            -exec cp {} generated/arcade/ \; 2>/dev/null || true
+
+
+      # ============================================================
+      # 💣 BOMBERMAN
+      # ============================================================
+
+      - name: 💣 Generate Bomberman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "bomberman"
+
+      - name: 📦 Copy Bomberman
+        shell: bash
+        run: |
+          set -e
+
+          find . -type f \
+            \( -name "bomberman-contribution-graph.svg" \
+            -o -name "bomberman-contribution-graph-dark.svg" \) \
+            -not -path "./.git/*" \
+            -exec cp {} generated/arcade/ \; 2>/dev/null || true
+
+
+      # ============================================================
+      # 💠 MINESWEEPER
+      # ============================================================
+
+      - name: 💠 Generate Minesweeper
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "minesweeper"
+
+      - name: 📦 Copy Minesweeper
+        shell: bash
+        run: |
+          set -e
+
+          find . -type f \
+            \( -name "minesweeper-contribution-graph.svg" \
+            -o -name "minesweeper-contribution-graph-dark.svg" \) \
+            -not -path "./.git/*" \
+            -exec cp {} generated/arcade/ \; 2>/dev/null || true
 
 
       # ============================================================
@@ -230,63 +237,57 @@ jobs:
       - name: 🧩 Generate Tetris Classic
         uses: leereilly/contribution-graph-art@v1
         with:
-          github_user_name: bikram73
+          github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           tetromino_count: "5"
+          palette: "auto"
           animation_duration: "8"
           output_path: generated/tetris/tetris-classic.svg
 
 
       # ============================================================
-      # 🧩 TETRIS FAST
+      # 🧩⚡ TETRIS FAST
       # ============================================================
 
-      - name: 🧩 Generate Tetris Fast
+      - name: 🧩⚡ Generate Tetris Fast
         uses: leereilly/contribution-graph-art@v1
         with:
-          github_user_name: bikram73
+          github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          tetromino_count: "8"
-          animation_duration: "5"
+          tetromino_count: "5"
+          palette: "auto"
+          animation_duration: "4"
           output_path: generated/tetris/tetris-fast.svg
 
 
       # ============================================================
-      # 🧩 TETRIS SLOW
+      # 🧩🐢 TETRIS SLOW
       # ============================================================
 
-      - name: 🧩 Generate Tetris Slow
+      - name: 🧩🐢 Generate Tetris Slow
         uses: leereilly/contribution-graph-art@v1
         with:
-          github_user_name: bikram73
+          github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          tetromino_count: "3"
+          tetromino_count: "5"
+          palette: "auto"
           animation_duration: "12"
           output_path: generated/tetris/tetris-slow.svg
 
 
       # ============================================================
-      # 🚀 SPACE SHOOTER — RANDOM
+      # 👾 SPACE INVADERS
       # ============================================================
 
-      - name: 🚀 Space Shooter Random
-        uses: czl9707/gh-space-shooter@v2
+      - name: 👾 Generate Space Invaders
+        uses: VARDHAMANPATEL23/git-invader@v1.0.0
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: generated/space/space-shooter-random.gif
-          strategy: random
-
-
-      # ============================================================
-      # 🚀 SPACE SHOOTER — ROW
-      # ============================================================
-
-      - name: 🚀 Space Shooter Row
-        uses: czl9707/gh-space-shooter@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: generated/space/space-shooter-row.gif
-          strategy: row
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_username: ${{ github.repository_owner }}
+          color: multi
+          mode: dark
+          ship: rocket
+          output_dir: generated/space
 
 
       # ============================================================
@@ -303,72 +304,85 @@ jobs:
 
           find generated -type f \
             \( -name "*.svg" -o -name "*.gif" -o -name "*.webp" \) \
+            -print
+
+          find generated -type f \
+            \( -name "*.svg" -o -name "*.gif" -o -name "*.webp" \) \
             -exec cp {} dist/ \;
 
           echo ""
-          echo "========================================"
-          echo "🎮 CONTRIBUTION ARCADE FILES"
-          echo "========================================"
+          echo "=============================="
+          echo "GENERATED FILES"
+          echo "=============================="
 
-          find dist -maxdepth 1 -type f -printf '%f\n' | sort
-
-          echo ""
-          echo "Total:"
-          find dist -maxdepth 1 -type f | wc -l
+          ls -lah dist
 
 
       # ============================================================
-      # 🔍 VERIFY
+      # 🔍 VERIFY REQUIRED FILES
       # ============================================================
 
-      - name: 🔍 Verify contribution games
+      - name: 🔍 Verify generated files
         shell: bash
         run: |
           set -e
 
-          echo "Checking generated files..."
+          required_files=(
+            "github-contribution-grid-snake.svg"
+            "github-contribution-grid-snake-dark.svg"
+            "snake-ocean.svg"
+            "snake-fire.svg"
+            "snake-purple.svg"
+            "snake-neon.svg"
+            "snake-food.svg"
 
-          test -f dist/pacman-contribution-graph-dark.svg
-          test -f dist/breakout-contribution-graph-dark.svg
-          test -f dist/galaga-contribution-graph-dark.svg
-          test -f dist/puzzle-bobble-contribution-graph-dark.svg
-          test -f dist/bomberman-contribution-graph-dark.svg
-          test -f dist/minesweeper-contribution-graph-dark.svg
+            "pacman-contribution-graph-dark.svg"
+            "breakout-contribution-graph-dark.svg"
+            "galaga-contribution-graph-dark.svg"
+            "puzzle-bobble-contribution-graph-dark.svg"
+            "bomberman-contribution-graph-dark.svg"
+            "minesweeper-contribution-graph-dark.svg"
 
-          test -f dist/snake-dark.svg
-          test -f dist/snake-ocean.svg
-          test -f dist/snake-fire.svg
-          test -f dist/snake-purple.svg
-          test -f dist/snake-neon.svg
-          test -f dist/snake-food.svg
+            "tetris-classic.svg"
+            "tetris-fast.svg"
+            "tetris-slow.svg"
 
-          test -f dist/tetris-classic.svg
-          test -f dist/tetris-fast.svg
-          test -f dist/tetris-slow.svg
+            "git-invader-multi-dark.svg"
+          )
 
-          test -f dist/space-shooter-random.gif
-          test -f dist/space-shooter-row.gif
+          failed=0
+
+          for file in "${required_files[@]}"; do
+            if [ -f "dist/$file" ]; then
+              echo "✅ $file"
+            else
+              echo "❌ MISSING: $file"
+              failed=1
+            fi
+          done
+
+          if [ "$failed" -ne 0 ]; then
+            echo ""
+            echo "❌ One or more required files are missing."
+            exit 1
+          fi
 
           echo ""
-          echo "========================================"
-          echo "✅ ALL CONTRIBUTION ANIMATIONS VERIFIED"
-          echo "========================================"
+          echo "✅ All master contribution animations generated."
 
 
       # ============================================================
-      # 🚀 PUBLISH TO OUTPUT
+      # 🚀 PUBLISH WITHOUT DELETING OTHER OUTPUT FILES
       # ============================================================
 
-      - name: 🚀 Publish to output branch
+      - name: 🚀 Publish contribution animations
         shell: bash
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
 
-          echo "========================================"
-          echo "🚀 PUBLISHING TO OUTPUT BRANCH"
-          echo "========================================"
+          echo "Cloning output branch..."
 
           rm -rf /tmp/output-branch
 
@@ -380,15 +394,57 @@ jobs:
 
           cd /tmp/output-branch
 
-          echo "Cleaning old generated files..."
+          echo "Removing only files managed by this workflow..."
 
-          find . -maxdepth 1 -type f \
-            \( -name "*.svg" -o -name "*.gif" -o -name "*.webp" \) \
-            -delete
+          managed_files=(
+            "github-contribution-grid-snake.svg"
+            "github-contribution-grid-snake-dark.svg"
 
-          echo "Copying new generated files..."
+            "snake-ocean.svg"
+            "snake-fire.svg"
+            "snake-purple.svg"
+            "snake-neon.svg"
+            "snake-food.svg"
+
+            "pacman-contribution-graph.svg"
+            "pacman-contribution-graph-dark.svg"
+
+            "breakout-contribution-graph.svg"
+            "breakout-contribution-graph-dark.svg"
+
+            "galaga-contribution-graph.svg"
+            "galaga-contribution-graph-dark.svg"
+
+            "puzzle-bobble-contribution-graph.svg"
+            "puzzle-bobble-contribution-graph-dark.svg"
+
+            "bomberman-contribution-graph.svg"
+            "bomberman-contribution-graph-dark.svg"
+
+            "minesweeper-contribution-graph.svg"
+            "minesweeper-contribution-graph-dark.svg"
+
+            "tetris-classic.svg"
+            "tetris-fast.svg"
+            "tetris-slow.svg"
+
+            "git-invader-multi-dark.svg"
+          )
+
+          for file in "${managed_files[@]}"; do
+            rm -f "$file"
+          done
+
+          echo "Copying new files..."
 
           cp "${GITHUB_WORKSPACE}"/dist/* .
+
+          echo ""
+          echo "=============================="
+          echo "OUTPUT BRANCH FILES"
+          echo "=============================="
+
+          ls -lah
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -400,11 +456,9 @@ jobs:
             exit 0
           fi
 
-          git commit -m "🎮 Update contribution arcade animations"
+          git commit -m "🎮 Update contribution animations"
 
           git push origin output
 
           echo ""
-          echo "========================================"
-          echo "✅ OUTPUT BRANCH UPDATED"
-          echo "========================================"
+          echo "✅ Contribution animations published successfully."
