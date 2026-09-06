@@ -21,13 +21,13 @@ jobs:
     steps:
 
       # ============================================================
-      # 📥 CHECKOUT — MUST BE FIRST
+      # 📥 CHECKOUT
       # ============================================================
 
       - name: 📥 Checkout repository
         uses: actions/checkout@v6
         with:
-          fetch-depth: 1
+          fetch-depth: 2
 
 
       # ============================================================
@@ -35,8 +35,12 @@ jobs:
       # ============================================================
 
       - name: 📁 Prepare directories
+        shell: bash
         run: |
+          set -e
+
           rm -rf dist generated
+
           mkdir -p dist
           mkdir -p generated/arcade
           mkdir -p generated/snake
@@ -292,6 +296,8 @@ jobs:
       - name: 📦 Collect generated files
         shell: bash
         run: |
+          set -e
+
           rm -rf dist
           mkdir -p dist
 
@@ -304,7 +310,11 @@ jobs:
           echo "🎮 CONTRIBUTION ARCADE FILES"
           echo "========================================"
 
-          ls -lah dist
+          find dist -maxdepth 1 -type f -printf '%f\n' | sort
+
+          echo ""
+          echo "Total:"
+          find dist -maxdepth 1 -type f | wc -l
 
 
       # ============================================================
@@ -316,7 +326,7 @@ jobs:
         run: |
           set -e
 
-          echo "Checking required files..."
+          echo "Checking generated files..."
 
           test -f dist/pacman-contribution-graph-dark.svg
           test -f dist/breakout-contribution-graph-dark.svg
@@ -341,23 +351,60 @@ jobs:
 
           echo ""
           echo "========================================"
-          echo "✅ ALL VERIFIED"
+          echo "✅ ALL CONTRIBUTION ANIMATIONS VERIFIED"
           echo "========================================"
 
-          echo ""
-          echo "Total generated files:"
-          find dist -type f | wc -l
-
 
       # ============================================================
-      # 🚀 SINGLE DEPLOYMENT
+      # 🚀 PUBLISH TO OUTPUT
       # ============================================================
 
-      - name: 🚀 Publish Everything
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
+      - name: 🚀 Publish to output branch
+        shell: bash
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+
+          echo "========================================"
+          echo "🚀 PUBLISHING TO OUTPUT BRANCH"
+          echo "========================================"
+
+          rm -rf /tmp/output-branch
+
+          git clone \
+            --depth 1 \
+            --branch output \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            /tmp/output-branch
+
+          cd /tmp/output-branch
+
+          echo "Cleaning old generated files..."
+
+          find . -maxdepth 1 -type f \
+            \( -name "*.svg" -o -name "*.gif" -o -name "*.webp" \) \
+            -delete
+
+          echo "Copying new generated files..."
+
+          cp "${GITHUB_WORKSPACE}"/dist/* .
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "✅ No changes to publish."
+            exit 0
+          fi
+
+          git commit -m "🎮 Update contribution arcade animations"
+
+          git push origin output
+
+          echo ""
+          echo "========================================"
+          echo "✅ OUTPUT BRANCH UPDATED"
+          echo "========================================"
