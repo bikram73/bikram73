@@ -157,28 +157,6 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 <td width="50%" valign="top">
 
 <img
-src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=bikram73&hide=html,css&layout=compact&theme=highcontrast"
-alt="Top Languages"
-width="100%"
-/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=highcontrast"
-alt="Productive Time"
-width="100%"
-/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img
 src="https://github-readme-stats-plum-one-24.vercel.app/api?username=bikram73&show_icons=true&include_all_commits=true&theme=highcontrast"
 alt="GitHub Stats"
 width="100%"
@@ -191,6 +169,28 @@ width="100%"
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=highcontrast"
 alt="Profile Details"
+width="100%"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img
+src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=bikram73&hide=html,css&layout=compact&theme=highcontrast"
+alt="Top Languages"
+width="100%"
+/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=highcontrast"
+alt="Productive Time"
 width="100%"
 />
 
