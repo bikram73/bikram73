@@ -14,25 +14,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          USERNAME: bikram73
-          BRANCH_NAME: summary-cards
-          AUTO_PUSH: false
-          UTC_OFFSET: 5.5
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-
-      - name: Push cards to summary-cards branch
-        uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: summary-cards
-          build_dir: profile-summary-card-output
-          jekyll: false
+          USERNAME: bikram73
+          AUTO_PUSH: false
+
+      - name: Push Summary Cards
+        uses: crazy-max/ghaction-github-pages@v3
         env:
           GITHUB_TOKEN: ${{ github.token }}
+        with:
+          build_dir: profile-summary-card-output
+          target_branch: summary-cards
+          jekyll: false
 ```
