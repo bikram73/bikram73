@@ -1,0 +1,211 @@
+name: 🚀 Generate Space Shooter Contributions
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: space-shooter
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+
+      # ============================================================
+      # 📥 CHECKOUT
+      # ============================================================
+
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 2
+
+
+      # ============================================================
+      # 📁 PREPARE
+      # ============================================================
+
+      - name: 📁 Prepare Space Shooter directory
+        shell: bash
+        run: |
+          set -e
+
+          mkdir -p generated/space-shooter
+
+          rm -f generated/space-shooter/space-shooter-random.gif
+          rm -f generated/space-shooter/space-shooter-row.gif
+
+          echo "🚀 Space Shooter directory ready."
+
+
+      # ============================================================
+      # 🚀 RANDOM SPACE SHOOTER
+      # ============================================================
+
+      - name: 🚀 Generate Random Space Shooter
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+
+          output-path: "generated/space-shooter/space-shooter-random.gif"
+
+          strategy: "random"
+
+          fps: "30"
+
+          no-amend: true
+
+          commit-message: "🚀 Update Space Shooter animations"
+
+
+      # ============================================================
+      # 🚀 ROW SPACE SHOOTER
+      # ============================================================
+
+      - name: 🚀 Generate Row Space Shooter
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+
+          output-path: "generated/space-shooter/space-shooter-row.gif"
+
+          strategy: "row"
+
+          fps: "30"
+
+          no-amend: true
+
+          commit-message: "🚀 Update Space Shooter animations"
+
+
+      # ============================================================
+      # 🔍 VERIFY GENERATION
+      # ============================================================
+
+      - name: 🔍 Verify Space Shooter files
+        shell: bash
+        run: |
+          set -e
+
+          echo "Checking generated files..."
+
+          if [ ! -f "generated/space-shooter/space-shooter-random.gif" ]; then
+            echo "❌ Random Space Shooter was not generated."
+            exit 1
+          fi
+
+          if [ ! -f "generated/space-shooter/space-shooter-row.gif" ]; then
+            echo "❌ Row Space Shooter was not generated."
+            exit 1
+          fi
+
+          echo "✅ Random Space Shooter generated."
+          ls -lh generated/space-shooter/space-shooter-random.gif
+
+          echo "✅ Row Space Shooter generated."
+          ls -lh generated/space-shooter/space-shooter-row.gif
+
+
+      # ============================================================
+      # 📦 PREPARE OUTPUT FILES
+      # ============================================================
+
+      - name: 📦 Prepare output files
+        shell: bash
+        run: |
+          set -e
+
+          rm -rf /tmp/space-shooter-output
+          mkdir -p /tmp/space-shooter-output
+
+          cp \
+            generated/space-shooter/space-shooter-random.gif \
+            /tmp/space-shooter-output/
+
+          cp \
+            generated/space-shooter/space-shooter-row.gif \
+            /tmp/space-shooter-output/
+
+          echo "=============================="
+          echo "FILES TO PUBLISH"
+          echo "=============================="
+
+          ls -lh /tmp/space-shooter-output
+
+
+      # ============================================================
+      # 🚀 PUBLISH TO OUTPUT BRANCH
+      # ============================================================
+
+      - name: 🚀 Publish Space Shooter to output branch
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+
+          echo "Cloning output branch..."
+
+          rm -rf /tmp/output-branch
+
+          git clone \
+            --depth 1 \
+            --branch output \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            /tmp/output-branch
+
+          cd /tmp/output-branch
+
+          echo "Removing previous Space Shooter files..."
+
+          rm -f space-shooter-random.gif
+          rm -f space-shooter-row.gif
+
+          echo "Copying new Space Shooter files..."
+
+          cp /tmp/space-shooter-output/space-shooter-random.gif .
+          cp /tmp/space-shooter-output/space-shooter-row.gif .
+
+          echo ""
+          echo "=============================="
+          echo "OUTPUT BRANCH SPACE SHOOTER"
+          echo "=============================="
+
+          ls -lh \
+            space-shooter-random.gif \
+            space-shooter-row.gif
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add space-shooter-random.gif
+          git add space-shooter-row.gif
+
+          if git diff --cached --quiet; then
+            echo "✅ No Space Shooter changes."
+            exit 0
+          fi
+
+          git commit -m "🚀 Update Space Shooter contribution animations"
+
+          git push origin output
+
+          echo ""
+          echo "======================================"
+          echo "✅ SPACE SHOOTER PUBLISHED"
+          echo "======================================"
