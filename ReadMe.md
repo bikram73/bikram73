@@ -150,13 +150,75 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bikram73&show_icons=true&theme=transparent&hide_border=true"
-    width="90%"
-    alt="Bikram's GitHub Stats"
-  />
-</p>
+<!-- <details> -->
+
+### 📊 My GitHub & GitRoll Stats
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img
+src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=bikram73&hide=html,css&layout=compact&theme=highcontrast"
+alt="Top Languages"
+width="100%"
+/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikram73&theme=highcontrast"
+alt="Productive Time"
+width="100%"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img
+src="https://github-readme-stats-plum-one-24.vercel.app/api?username=bikram73&show_icons=true&include_all_commits=true&theme=highcontrast"
+alt="GitHub Stats"
+width="100%"
+/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=highcontrast"
+alt="Profile Details"
+width="100%"
+/>
+
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<a href="https://git.io/streak-stats">
+<img
+src="https://streak-stats.demolab.com/?user=bikram73&theme=highcontrast"
+alt="GitHub Streak"
+/>
+</a>
+
+</td>
+
+
+</tr>
+</table>
+
+<!-- </details> -->
 
 <p align="center">
   <img
