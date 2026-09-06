@@ -167,8 +167,8 @@ width="100%"
 <td width="50%" valign="top">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikram73&theme=highcontrast"
-alt="Profile Details"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikram73&theme=highcontrast"
+alt="GitHub Statistics"
 width="100%"
 />
 
