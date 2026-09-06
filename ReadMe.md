@@ -3,18 +3,6 @@
   <br>
   <br>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bikram73&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Bikram%27s%20Contribution%20Activity"
-  width="100%"
-  alt="Bikram's Contribution Activity Graph"
-/>
-
-</div>
-
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/><img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
   <br/>
