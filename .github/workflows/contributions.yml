@@ -21,6 +21,16 @@ jobs:
     steps:
 
       # ============================================================
+      # 📥 CHECKOUT — MUST BE FIRST
+      # ============================================================
+
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+
+      # ============================================================
       # 📁 PREPARE
       # ============================================================
 
@@ -35,7 +45,7 @@ jobs:
 
 
       # ============================================================
-      # 🕹️ ARCADE GAMES
+      # 🕹️ PAC-MAN
       # ============================================================
 
       - name: 🕹️ Generate Pac-Man
@@ -50,6 +60,10 @@ jobs:
           cp -f dist/pacman-contribution-graph*.svg generated/arcade/ || true
 
 
+      # ============================================================
+      # 🧱 BREAKOUT
+      # ============================================================
+
       - name: 🧱 Generate Breakout
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -61,6 +75,10 @@ jobs:
         run: |
           cp -f dist/breakout-contribution-graph*.svg generated/arcade/ || true
 
+
+      # ============================================================
+      # 🚀 GALAGA
+      # ============================================================
 
       - name: 🚀 Generate Galaga
         uses: abozanona/pacman-contribution-graph@main
@@ -74,6 +92,10 @@ jobs:
           cp -f dist/galaga-contribution-graph*.svg generated/arcade/ || true
 
 
+      # ============================================================
+      # 🫧 PUZZLE BOBBLE
+      # ============================================================
+
       - name: 🫧 Generate Puzzle Bobble
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -86,6 +108,10 @@ jobs:
           cp -f dist/puzzle-bobble-contribution-graph*.svg generated/arcade/ || true
 
 
+      # ============================================================
+      # 💣 BOMBERMAN
+      # ============================================================
+
       - name: 💣 Generate Bomberman
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -97,6 +123,10 @@ jobs:
         run: |
           cp -f dist/bomberman-contribution-graph*.svg generated/arcade/ || true
 
+
+      # ============================================================
+      # 💠 MINESWEEPER
+      # ============================================================
 
       - name: 💠 Generate Minesweeper
         uses: abozanona/pacman-contribution-graph@main
@@ -114,7 +144,7 @@ jobs:
       # 🐍 STANDARD SNAKE
       # ============================================================
 
-      - name: 🐍 Generate Snake - GitHub Dark
+      - name: 🐍 Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: bikram73
@@ -123,40 +153,56 @@ jobs:
             generated/snake/snake-dark.svg?palette=github-dark
 
 
-      - name: 🐍🌊 Generate Snake - Ocean
+      # ============================================================
+      # 🐍🌊 OCEAN SNAKE
+      # ============================================================
+
+      - name: 🐍🌊 Generate Ocean Snake
         uses: Platane/snk@v3
         with:
           github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            generated/snake/snake-ocean.gif?color_snake=#00bfff&color_dots=#dff9ff,#7dd3fc,#38bdf8,#0284c7,#075985
+            generated/snake/snake-ocean.svg?color_snake=00bfff&color_dots=ffffff,7dd3fc,38bdf8,0284c7,075985
 
 
-      - name: 🐍🔥 Generate Snake - Fire
+      # ============================================================
+      # 🐍🔥 FIRE SNAKE
+      # ============================================================
+
+      - name: 🐍🔥 Generate Fire Snake
         uses: Platane/snk@v3
         with:
           github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            generated/snake/snake-fire.gif?color_snake=#ff4500&color_dots=#fff1e6,#ffcc80,#ff9800,#f4511e,#b71c1c
+            generated/snake/snake-fire.svg?color_snake=ff4500&color_dots=ffffff,ffcc80,ff9800,f4511e,b71c1c
 
 
-      - name: 🐍💜 Generate Snake - Purple
+      # ============================================================
+      # 🐍💜 PURPLE SNAKE
+      # ============================================================
+
+      - name: 🐍💜 Generate Purple Snake
         uses: Platane/snk@v3
         with:
           github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            generated/snake/snake-purple.gif?color_snake=#a855f7&color_dots=#faf5ff,#e9d5ff,#c084fc,#9333ea,#581c87
+            generated/snake/snake-purple.svg?color_snake=a855f7&color_dots=ffffff,e9d5ff,c084fc,9333ea,581c87
 
 
-      - name: 🐍⚡ Generate Snake - Neon
+      # ============================================================
+      # 🐍⚡ NEON SNAKE
+      # ============================================================
+
+      - name: 🐍⚡ Generate Neon Snake
         uses: Platane/snk@v3
         with:
           github_user_name: bikram73
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            generated/snake/snake-neon.gif?color_snake=#00ff88&color_dots=#ecfeff,#67e8f9,#22d3ee,#06b6d4,#0891b2
+            generated/snake/snake-neon.svg?color_snake=00ff88&color_dots=ffffff,67e8f9,22d3ee,06b6d4,0891b2
 
 
       # ============================================================
@@ -174,10 +220,10 @@ jobs:
 
 
       # ============================================================
-      # 🧩 TETRIS VARIANT 1
+      # 🧩 TETRIS CLASSIC
       # ============================================================
 
-      - name: 🧩 Generate Tetris - Classic
+      - name: 🧩 Generate Tetris Classic
         uses: leereilly/contribution-graph-art@v1
         with:
           github_user_name: bikram73
@@ -188,10 +234,10 @@ jobs:
 
 
       # ============================================================
-      # 🧩 TETRIS VARIANT 2
+      # 🧩 TETRIS FAST
       # ============================================================
 
-      - name: 🧩 Generate Tetris - Fast
+      - name: 🧩 Generate Tetris Fast
         uses: leereilly/contribution-graph-art@v1
         with:
           github_user_name: bikram73
@@ -202,10 +248,10 @@ jobs:
 
 
       # ============================================================
-      # 🧩 TETRIS VARIANT 3
+      # 🧩 TETRIS SLOW
       # ============================================================
 
-      - name: 🧩 Generate Tetris - Slow
+      - name: 🧩 Generate Tetris Slow
         uses: leereilly/contribution-graph-art@v1
         with:
           github_user_name: bikram73
@@ -216,13 +262,10 @@ jobs:
 
 
       # ============================================================
-      # 🚀 SPACE SHOOTER
+      # 🚀 SPACE SHOOTER — RANDOM
       # ============================================================
 
-      - name: 🚀 Generate Space Shooter
-        uses: actions/checkout@v6
-
-      - name: 🚀 Space Shooter - Random
+      - name: 🚀 Space Shooter Random
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -231,10 +274,10 @@ jobs:
 
 
       # ============================================================
-      # 🚀 SPACE SHOOTER - ROW
+      # 🚀 SPACE SHOOTER — ROW
       # ============================================================
 
-      - name: 🚀 Space Shooter - Row
+      - name: 🚀 Space Shooter Row
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -247,8 +290,14 @@ jobs:
       # ============================================================
 
       - name: 📦 Collect generated files
+        shell: bash
         run: |
-          find generated -type f \( -name "*.svg" -o -name "*.gif" -o -name "*.webp" \) -exec cp {} dist/ \;
+          rm -rf dist
+          mkdir -p dist
+
+          find generated -type f \
+            \( -name "*.svg" -o -name "*.gif" -o -name "*.webp" \) \
+            -exec cp {} dist/ \;
 
           echo ""
           echo "========================================"
@@ -263,24 +312,41 @@ jobs:
       # ============================================================
 
       - name: 🔍 Verify contribution games
+        shell: bash
         run: |
+          set -e
+
+          echo "Checking required files..."
+
           test -f dist/pacman-contribution-graph-dark.svg
           test -f dist/breakout-contribution-graph-dark.svg
           test -f dist/galaga-contribution-graph-dark.svg
           test -f dist/puzzle-bobble-contribution-graph-dark.svg
           test -f dist/bomberman-contribution-graph-dark.svg
           test -f dist/minesweeper-contribution-graph-dark.svg
+
           test -f dist/snake-dark.svg
+          test -f dist/snake-ocean.svg
+          test -f dist/snake-fire.svg
+          test -f dist/snake-purple.svg
+          test -f dist/snake-neon.svg
           test -f dist/snake-food.svg
+
           test -f dist/tetris-classic.svg
           test -f dist/tetris-fast.svg
           test -f dist/tetris-slow.svg
+
           test -f dist/space-shooter-random.gif
           test -f dist/space-shooter-row.gif
 
+          echo ""
           echo "========================================"
           echo "✅ ALL VERIFIED"
           echo "========================================"
+
+          echo ""
+          echo "Total generated files:"
+          find dist -type f | wc -l
 
 
       # ============================================================
