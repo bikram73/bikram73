@@ -492,18 +492,7 @@ width="100%"
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwYmFwYmV5cXo1M2Nxb3lpc3lyZWg3YzdoZjc3dHZwY3JrZDM4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yPNVFnPOyo3E4Peg8C/giphy.gif"
-    width="400"
-    alt="Animated GIF 1"
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V1dXgxYnVvcnl6dDc0eWRkaW5manZtbW9yYno4d255aGlwYW51aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IQtmJSrkqcdf00eRey/giphy.gif"
-    width="400"
-    height="400"
-    alt="Animated GIF 2"
-  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwYmFwYmV5cXo1M2Nxb3lpc3lyZWg3YzdoZjc3dHZwY3JrZDM4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yPNVFnPOyo3E4Peg8C/giphy.gif" width="600">
 </p>
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
