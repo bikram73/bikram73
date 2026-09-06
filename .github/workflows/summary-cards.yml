@@ -1,7 +1,9 @@
+```yaml
 name: Generate GitHub Summary Cards
 
 on:
   workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
 
@@ -13,18 +15,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ==========================================
+      # CHECKOUT
+      # ==========================================
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ==========================================
+      # GENERATE SUMMARY CARDS
+      # ==========================================
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: bikram73
+          BRANCH_NAME: "summary-cards"
           AUTO_PUSH: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          UTC_OFFSET: 5.5
 
+      # ==========================================
+      # PUSH CARDS TO SUMMARY-CARDS BRANCH
+      # ==========================================
       - name: Push cards to summary-cards branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: summary-cards
           build_dir: profile-summary-card-output
+          jekyll: false
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+```
