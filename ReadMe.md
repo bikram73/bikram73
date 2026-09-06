@@ -273,7 +273,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 </p>
 
 ---
--->
+
 ## 🐍🍎 Snake + Food Contribution
 
 <p align="center">
@@ -285,7 +285,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 </p>
 
 ---
-
+-->
 ## 🕹️ Pac-Man Contribution
 
 <p align="center">
@@ -429,7 +429,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
 </p>
 
 ---
-
+<!--
 ## 🚀 Space Shooter — Row Contribution
 
 <p align="center">
@@ -439,7 +439,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
     alt="Row Space Shooter Contribution Animation"
   />
 </p>
-
+-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h1 align="center">
