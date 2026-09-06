@@ -3,6 +3,20 @@
   <br>
   <br>
 
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/yPNVFnPOyo3E4Peg8C/giphy.gif"
+    width="400"
+    alt="Animated GIF 1"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://media.tenor.com/j4z9WJNgZgQAAAAC/ronaldo-goat.gif"
+    width="400"
+    height="400"
+    alt="Cristiano Ronaldo GOAT GIF"
+  />
+</p>
 
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/><img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
