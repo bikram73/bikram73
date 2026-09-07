@@ -3,7 +3,6 @@
   <br>
   <br>
 
-
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/><img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
   <br/>
   
@@ -491,7 +490,18 @@ width="100%"
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdwYmFwYmV5cXo1M2Nxb3lpc3lyZWg3YzdoZjc3dHZwY3JrZDM4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yPNVFnPOyo3E4Peg8C/giphy.gif" width="600">
+  <img
+    src="https://media.giphy.com/media/yPNVFnPOyo3E4Peg8C/giphy.gif"
+    width="400"
+    alt="Animated GIF 1"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="/gif.gif"
+    width="400"
+    height="350"
+    alt="Animated GIF 2"
+  />
 </p>
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
