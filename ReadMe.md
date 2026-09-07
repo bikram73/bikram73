@@ -492,14 +492,14 @@ width="100%"
 <p align="center">
   <img
     src="https://media.giphy.com/media/yPNVFnPOyo3E4Peg8C/giphy.gif"
-    width="400"
+    width="450"
     alt="Animated GIF 1"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="/gif.gif"
     width="400"
-    height="350"
+    height="400"
     alt="Animated GIF 2"
   />
 </p>
