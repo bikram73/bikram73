@@ -145,6 +145,8 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   />
 </p>
 
+[![Bikram's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=dracula)](https://github.com/bikram73)
+
 ---
 
 <div align="center">
