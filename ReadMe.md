@@ -228,6 +228,17 @@ width="100%"
 
 ---
 
+<div align="center">
+  <a href="https://commit-history.com/bikram73">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/bikram73?theme=dark" />
+      <img alt="bikram73's commit history" src="https://commit-history.com/embed/bikram73" />
+    </picture>
+  </a>
+</div>
+
+---
+
 ### 🔝 Top Contributed Repo:
 
 <p align="center">
