@@ -3,8 +3,10 @@
   <br>
   <br>
 
-<div class="tenor-gif-embed" data-postid="8317447219590282698" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/goat-ronaldo-ronaldo-edit-goat-edit-cristiano-ronaldo-gif-8317447219590282698">Goat Ronaldo GIF</a>from <a href="https://tenor.com/search/goat-gifs">Goat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp4emJic25jODhnM3B2eHJremsydjdxODdzZHZ6ZzIwc2k4M2JueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IP1rKcrYpvrfksMmGO/giphy.gif" width="400">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mdDJlMmF0bTA2cWpmM2o1c3o4Y3ZnM2k1N2VteHdsamFwdjJ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58F2iDcbRtFkNAw9tx/giphy.gif" width="400" height="400">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/><img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
   <br/>
