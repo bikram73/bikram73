@@ -3,15 +3,6 @@
   <br>
   <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp4emJic25jODhnM3B2eHJremsydjdxODdzZHZ6ZzIwc2k4M2JueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IP1rKcrYpvrfksMmGO/giphy.gif" width="400">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mdDJlMmF0bTA2cWpmM2o1c3o4Y3ZnM2k1N2VteHdsamFwdjJ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58F2iDcbRtFkNAw9tx/giphy.gif" width="400" height="400">
-
-  <p align="center">
-  <img src="https://tenor.com/j4z9WJNgZgQ.gif" width="400">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mdDJlMmF0bTA2cWpmM2o1c3o4Y3ZnM2k1N2VteHdsamFwdjJ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58F2iDcbRtFkNAw9tx/giphy.gif" width="400" height="400">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/><img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
   <br/>
@@ -551,7 +542,7 @@ width="100%"
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1lcnY5NTByMzB4ZGtzbXl2M3MwZ2VuOGRzcDg4bXR6NjI0MDRmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHjX92g0IdcSW4gQ4F/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp4emJic25jODhnM3B2eHJremsydjdxODdzZHZ6ZzIwc2k4M2JueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IP1rKcrYpvrfksMmGO/giphy.gif" width="400">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mdDJlMmF0bTA2cWpmM2o1c3o4Y3ZnM2k1N2VteHdsamFwdjJ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58F2iDcbRtFkNAw9tx/giphy.gif" width="400" height="400">
 
