@@ -4,15 +4,6 @@
   <br>
 
 
-<p align="center">
-  <a href="https://tenor.com/view/goat-ronaldo-ronaldo-edit-goat-edit-cristiano-ronaldo-gif-8317447219590282698">
-    <img src="https://media.gifdb.com/cristiano-ronaldo-cristiano-ronaldo-meme-gif-pzku0sztxxava66e.gif" width="400" alt="Cristiano Ronaldo Meme GIF">
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mdDJlMmF0bTA2cWpmM2o1c3o4Y3ZnM2k1N2VteHdsamFwdjJ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58F2iDcbRtFkNAw9tx/giphy.gif" width="400" height="400" alt="Animated GIF">
-</p>
-
-
 
 
 
