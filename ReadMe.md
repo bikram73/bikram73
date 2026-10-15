@@ -8,6 +8,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mdDJlMmF0bTA2cWpmM2o1c3o4Y3ZnM2k1N2VteHdsamFwdjJ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58F2iDcbRtFkNAw9tx/giphy.gif" width="400" height="400">
 
+  <p align="center">
+  <img src="https://tenor.com/j4z9WJNgZgQ.gif" width="400">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mdDJlMmF0bTA2cWpmM2o1c3o4Y3ZnM2k1N2VteHdsamFwdjJ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58F2iDcbRtFkNAw9tx/giphy.gif" width="400" height="400">
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving Hand"/><img src="https://em-content.zobj.net/source/apple/391/smiling-face-with-smiling-eyes_1f60a.png" width="45" slt="smile face"/>
   <br/>
   
