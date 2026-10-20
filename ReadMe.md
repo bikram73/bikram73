@@ -259,6 +259,12 @@ width="100%"
 ### 🎯 Profile Views Counter:
 <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" width="300"/>
 
+### 🎯 Profile Views Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bikram73&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
+</p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🐍 Snake Contribution:
