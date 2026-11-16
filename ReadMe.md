@@ -147,7 +147,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=bikram73&theme=react-dark&hide_border=true"
     width="100%"
-    alt="Bikram's Contribution Activity Graph"
+    alt="Bikram's Contribution Activity Graph (On Last 30 Days)"
   />
 </p>
 
@@ -157,7 +157,7 @@ An **RTOS-based simulation project** demonstrating interrupt-driven architecture
   <a href="https://commit-history.com/bikram73">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/bikram73?theme=dark" />
-      <img alt="bikram73's commit history" src="https://commit-history.com/embed/bikram73" />
+      <img alt="bikram73's commit history over the years" src="https://commit-history.com/embed/bikram73" />
     </picture>
   </a>
 </div>
